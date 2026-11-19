@@ -1,0 +1,18 @@
+{
+  "name": "Mon Carnet de Cuisine",
+  "short_name": "Mes recettes",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf5e8",
+  "theme_color": "#6e292e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
