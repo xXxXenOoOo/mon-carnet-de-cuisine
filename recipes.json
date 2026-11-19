@@ -1,0 +1,94 @@
+[
+  {
+    "id": "001",
+    "title": "Petit salé aux lentilles du Berry",
+    "category": "Plats mijotés",
+    "cuisine": "Cuisine française",
+    "status": "À tester",
+    "base": 2,
+    "prep": "15–20 min (estimation)",
+    "cook": "2 h 45–3 h 30",
+    "difficulty": "Facile",
+    "equipment": [
+      "Cocotte ou faitout avec couvercle",
+      "Casserole pour précuire les viandes",
+      "Passoire",
+      "Planche et couteau",
+      "Économe",
+      "Balance",
+      "Louche",
+      "Mixeur plongeant"
+    ],
+    "steps": [
+      "Cuire les viandes demi-sel dans l’eau pendant 45 min à 1 h.",
+      "Dans une cocotte, faire revenir les oignons et les carottes finement coupés avec le saindoux.",
+      "Ajouter les viandes égouttées, couvrir d’eau et cuire 1 h supplémentaire.",
+      "Ajouter les lentilles et les saucisses de Montbéliard. Cuire 1 h à 1 h 30 selon la texture souhaitée."
+    ],
+    "tip": "Mixer quelques louches de lentilles avec le jus de cuisson des viandes, puis reverser dans la cocotte pour lier la sauce. Goûter avant de rectifier l’assaisonnement.",
+    "variants": [],
+    "source": {
+      "label": "Geoffrey Cornet — Reel Instagram",
+      "url": "https://www.instagram.com/reel/DfFd1a4op-2/"
+    },
+    "portionNote": "Proportions originales pour 10 personnes, ramenées à 2 avant arrondis. Une saucisse est estimée à 100 g ; vérifier le poids du produit. Adapter la taille de la cocotte, le niveau d’eau et l’assaisonnement ; la durée de cuisson ne se multiplie pas par le nombre de convives.",
+    "ingredients": [
+      {
+        "name": "Poitrine fumée, palette et plat de côte demi-sel",
+        "qty": 520,
+        "unit": "g",
+        "rule": "weight",
+        "step": 10,
+        "emoji": "🥩",
+        "image": "https://maison-lefranc.com/185/lard-porc-demi-sel.jpg"
+      },
+      {
+        "name": "Saucisses de Montbéliard",
+        "qty": 0.4,
+        "unit": "pièce",
+        "rule": "half",
+        "grams": 100,
+        "emoji": "🌭",
+        "image": "https://schmid-traiteur.com/cdn/shop/files/saucissedemontbeliarddecor.png?v=1774620356&width=400"
+      },
+      {
+        "name": "Lentilles vertes du Berry",
+        "qty": 200,
+        "unit": "g",
+        "rule": "weight",
+        "step": 10,
+        "emoji": "🫘",
+        "image": "https://simplywholefoods.co.nz/cdn/shop/files/french-green-lentils_5fc143c5-fe32-47f4-9c17-b7f12e74a924.png?v=1771838120&width=400"
+      },
+      {
+        "name": "Carottes",
+        "qty": 1.6,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🥕",
+        "image": "https://www.instacart.com/assets/domains/product-image/file/large_0c01f002-3e6e-455d-929f-09ee0d69e686.jpeg"
+      },
+      {
+        "name": "Oignons",
+        "qty": 0.4,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🧅",
+        "image": "https://cdn.auchan.fr/media/A0219870327000035395PRIMARY_0x0/B2CD/?fit=pad&format=jpg&height=400&quality=75&width=400"
+      },
+      {
+        "name": "Saindoux",
+        "qty": 0.6,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🥄",
+        "image": "https://views.learneating.com/wp-content/uploads/2025/05/new-lard-726.jpg"
+      },
+      {
+        "name": "Eau et poivre",
+        "rule": "taste",
+        "emoji": "🧂"
+      }
+    ]
+  }
+]
