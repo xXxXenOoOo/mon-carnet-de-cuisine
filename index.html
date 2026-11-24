@@ -64,6 +64,11 @@ body[data-view="recipe"] .hero p{font-size:15px}
  body[data-view="recipe"] .hero-inner{padding:14px 17px}
  body[data-view="recipe"] .hero h1{font-size:25px}
 }
+body[data-view="shopping"] .hero{height:170px}
+body[data-view="shopping"] .hero-inner{justify-content:center;padding:15px 25px}
+body[data-view="shopping"] .hero-feature,body[data-view="shopping"] .hero .brand{display:none}
+body[data-view="shopping"] .hero h1{font-size:30px}
+@media(max-width:650px){body[data-view="shopping"] .hero{height:145px}body[data-view="shopping"] .hero-inner{padding:14px 17px}body[data-view="shopping"] .hero h1{font-size:25px}}
 @media(prefers-reduced-motion:reduce){.hero-photo{transition:none}}
 @media print{@page{size:A4;margin:9mm}header,nav,footer,.topline,.portion .btn,.portion button,.no-print{display:none!important}body,main,.recipe{background:white;padding:0;margin:0;max-width:none;border:0;box-shadow:none}.recipe{font-size:10pt}.recipe h2{font-size:18pt}.columns{grid-template-columns:1fr 1.25fr;gap:16px}.ingredient{padding:3px 0;font-size:9pt;break-inside:avoid}.thumb{width:23px;height:23px;flex-basis:23px}.quantity{font-size:9pt}.section h3{font-size:13pt;margin:10px 0 5px}.equipment,.note,.steps li{font-size:9pt}.steps li{padding-bottom:5px}.meta,.portion{padding:5px;margin:6px 0;font-size:9pt}.small{font-size:8pt}}
 </style>
