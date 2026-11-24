@@ -7,7 +7,7 @@ let favorites=read('carnet-favorites-v1',[]),shopping=read('carnet-shopping-v1',
 if(!Array.isArray(favorites))favorites=[];
 if(!Array.isArray(shopping))shopping=[];
 const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const urlSafe=x=>{try{const u=new URL(x);return u.protocol==='https:'?u.href:''}catch{return ''}};
+const urlSafe=x=>{if(typeof x==='string'&&/^\.\/images\/[0-9]{3}\.webp$/.test(x))return x;try{const u=new URL(x);return u.protocol==='https:'?u.href:''}catch{return ''}};
 const norm=s=>String(s??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
 const number=x=>Number(x).toLocaleString('fr-FR',{maximumFractionDigits:2});
 function fraction(x){const whole=Math.floor(x);return x%1===.5?(whole?whole+' et ½':'½'):number(x)}
@@ -64,8 +64,10 @@ function setBannerImage(r){
  if(!src){bannerPhoto.style.display='none';credit.hidden=true;return}
  bannerPhoto.src=src;
  if(bannerPhoto.complete&&bannerPhoto.naturalWidth)bannerPhoto.classList.remove('is-switching');
- link.href=urlSafe(photo.page)||'https://commons.wikimedia.org/';
- link.textContent=(photo.author||'Wikimedia Commons')+' · '+(photo.license||'Licence libre');
+ link.href=photo.generated?'#':(urlSafe(photo.page)||'https://commons.wikimedia.org/');
+ link.textContent=photo.generated?'Image créée pour le carnet (illustration IA)':(photo.author||'Wikimedia Commons')+' · '+(photo.license||'Licence libre');
+ link.style.pointerEvents=photo.generated?'none':'auto';
+ link.style.textDecoration=photo.generated?'none':'underline';
  credit.hidden=false;
 }
 function paintSuggestion(){
@@ -109,14 +111,14 @@ function photoMedia(r){
  const p=r.photo;
  if(!p||!urlSafe(p.src))return '';
  const page=urlSafe(p.page);
- const credit=page?'<a href="'+esc(page)+'" target="_blank" rel="noopener noreferrer">'+esc(p.author||'Wikimedia Commons')+' · '+esc(p.license||'Licence libre')+'</a>':esc(p.author||'Wikimedia Commons');
+ const credit=p.generated?'Image originale générée pour le carnet':page?'<a href="'+esc(page)+'" target="_blank" rel="noopener noreferrer">'+esc(p.author||'Wikimedia Commons')+' · '+esc(p.license||'Licence libre')+'</a>':esc(p.author||'Wikimedia Commons');
  const position=/^(center|left|right|\d{1,3}%)( (center|top|bottom|\d{1,3}%))?$/.test(p.cardPosition||'')?p.cardPosition:'center center';
  return '<div class="recipe-media"><img class="recipe-cover" loading="lazy" referrerpolicy="no-referrer" alt="Illustration de '+esc(r.title)+'" style="object-position:'+esc(position)+'" src="'+esc(urlSafe(p.src))+'"><small class="recipe-media-credit">Illustration : '+credit+'</small></div>';
 }
 function photoInside(r){
  const p=r.photo;
  if(!p||!urlSafe(p.src))return '';
- const credit=urlSafe(p.page)?'<a target="_blank" rel="noopener noreferrer" href="'+esc(urlSafe(p.page))+'">'+esc(p.author||'Wikimedia Commons')+' · '+esc(p.license||'Licence libre')+'</a>':esc(p.author||'Wikimedia Commons');
+ const credit=p.generated?'Image générée pour le carnet':urlSafe(p.page)?'<a target="_blank" rel="noopener noreferrer" href="'+esc(urlSafe(p.page))+'">'+esc(p.author||'Wikimedia Commons')+' · '+esc(p.license||'Licence libre')+'</a>':esc(p.author||'Wikimedia Commons');
  return '<figure class="recipe-figure"><img class="recipe-photo" loading="lazy" referrerpolicy="no-referrer" alt="Photo d’illustration du plat '+esc(r.title)+'" src="'+esc(urlSafe(p.src))+'"><figcaption class="photo-note">Photo d’illustration, pas le résultat de cette recette · '+credit+'</figcaption></figure>';
 }
 
