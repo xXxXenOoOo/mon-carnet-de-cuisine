@@ -12,13 +12,13 @@ const norm=s=>String(s??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLo
 const number=x=>Number(x).toLocaleString('fr-FR',{maximumFractionDigits:2});
 function fraction(x){const whole=Math.floor(x);return x%1===.5?(whole?whole+' et ½':'½'):number(x)}
 function amount(i,n,b=2){
- if(i.rule==='taste'||i.qty==null)return 'Selon le goût';
+ if(i.rule==='unknown')return 'Non précisée';\n if(i.rule==='taste'||i.qty==null)return 'Selon le goût';
  const raw=Number(i.qty)*n/b;
  let value=raw;
  if(i.rule==='half')value=Math.max(.5,Math.round(raw*2)/2);
  if(i.rule==='whole')value=Math.max(1,Math.round(raw));
  if(i.rule==='weight'){const step=Number(i.step)||1;value=Math.max(step,Math.round(raw/step)*step)}
- if(i.unit==='pièce')return fraction(value)+(i.grams?' ('+number(value*i.grams)+' g env.)':'');
+ if(i.unit==='pièce'||i.unit==='gousse')return fraction(value)+' '+(i.unit==='gousse'?(value>1?'gousses':'gousse'):(value>1?'pièces':'pièce'))+(i.grams?' ('+number(value*i.grams)+' g env.)':'');
  return fraction(value)+' '+(i.unit||'');
 }
 function fav(id){return favorites.includes(id)}
