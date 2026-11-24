@@ -661,7 +661,16 @@
       "label": "TikTok — @swiss.fitcook",
       "url": "https://www.tiktok.com/@_/video/7581520983182560515"
     },
-    "portionNote": "La description ne précise pas le rendement total. Base de calcul de 4 portions estimée à partir des 600 g de viande ; vérifier à la réalisation. Les valeurs nutritionnelles annoncées dans la vidéo ne sont pas recalculées ici."
+    "portionNote": "La description ne précise pas le rendement total. Base de calcul de 4 portions estimée à partir des 600 g de viande ; vérifier à la réalisation. Les valeurs nutritionnelles annoncées dans la vidéo ne sont pas recalculées ici.",
+    "photo": {
+      "src": "./images/005.webp",
+      "generated": true,
+      "featured": true,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Shawarma croustillant au bœuf"
+    }
   },
   {
     "id": "006",
@@ -779,7 +788,16 @@
       "label": "TikTok — @_lindoush_",
       "url": "https://www.tiktok.com/@_/video/7558140599589735702"
     },
-    "portionNote": "Quantités indiquées explicitement par la créatrice pour 2 personnes. Le dosage de piment (1 c. à soupe pour 2) peut être puissant ; ajuster selon la tolérance au piquant."
+    "portionNote": "Quantités indiquées explicitement par la créatrice pour 2 personnes. Le dosage de piment (1 c. à soupe pour 2) peut être puissant ; ajuster selon la tolérance au piquant.",
+    "photo": {
+      "src": "./images/006.webp",
+      "generated": true,
+      "featured": true,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Nouilles au sésame épicées"
+    }
   },
   {
     "id": "007",
@@ -922,7 +940,16 @@
       "label": "TikTok — @gourmetshit_",
       "url": "https://www.tiktok.com/@_/video/7554828549727784214"
     },
-    "portionNote": "Le nombre de parts n’est pas indiqué. Base de 4 parts estimée pour la tourte entière, à ajuster après essai. Quantités de lard, de moutarde et de dorure absentes de la source."
+    "portionNote": "Le nombre de parts n’est pas indiqué. Base de 4 parts estimée pour la tourte entière, à ajuster après essai. Quantités de lard, de moutarde et de dorure absentes de la source.",
+    "photo": {
+      "src": "./images/007.webp",
+      "generated": true,
+      "featured": true,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Tourte au poulet, lard, poireaux et champignons"
+    }
   },
   {
     "id": "008",
@@ -986,7 +1013,16 @@
       "label": "TikTok — @bonne_pitance",
       "url": "https://www.tiktok.com/@_/video/7637540118655552790"
     },
-    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment.",
+    "photo": {
+      "src": "./images/008.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Mac’n’cheese au Beaufort"
+    }
   },
   {
     "id": "009",
@@ -1050,7 +1086,16 @@
       "label": "TikTok — @whoogys",
       "url": "https://www.tiktok.com/@_/video/7617011238807063830"
     },
-    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment.",
+    "photo": {
+      "src": "./images/009.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Nouilles sautées au poulet (Pad See Ew)"
+    }
   },
   {
     "id": "010",
