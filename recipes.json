@@ -91,12 +91,15 @@
       }
     ],
     "photo": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20petit%20sale%20aux%20lentilles.jpg?width=1200",
-      "page": "https://commons.wikimedia.org/wiki/File:Le%20petit%20sale%20aux%20lentilles.jpg",
-      "author": "Kui-Doraku",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
-      "illustrative": true
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Petit%20sal%C3%A9%20aux%20lentilles.jpg?width=1000",
+      "page": "https://commons.wikimedia.org/wiki/File:Petit%20sal%C3%A9%20aux%20lentilles.jpg",
+      "author": "Thomon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "illustrative": true,
+      "featured": true,
+      "heroPosition": "center center",
+      "cardPosition": "center center"
     }
   },
   {
@@ -218,12 +221,15 @@
     },
     "portionNote": "La source donne les pesées pour 400 g de bœuf, sans préciser le nombre de parts. Affichage de référence pour 2 personnes par hypothèse, à ajuster après essai. Quantités d’oignons, d’huile et de fécule absentes de la description.",
     "photo": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ginger%20and%20Onion%20Beef%20%E8%96%91%E8%94%A5%E7%89%9B%E8%82%89%20(Golden%20Dynasty%20Chinese%20Restaurant).jpg?width=1200",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ginger%20and%20Onion%20Beef%20%E8%96%91%E8%94%A5%E7%89%9B%E8%82%89%20(Golden%20Dynasty%20Chinese%20Restaurant).jpg?width=1000",
       "page": "https://commons.wikimedia.org/wiki/File:Ginger%20and%20Onion%20Beef%20%E8%96%91%E8%94%A5%E7%89%9B%E8%82%89%20(Golden%20Dynasty%20Chinese%20Restaurant).jpg",
       "author": "NeoBatfreak",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "illustrative": true
+      "illustrative": true,
+      "featured": true,
+      "heroPosition": "center center",
+      "cardPosition": "center center"
     }
   },
   {
@@ -323,12 +329,15 @@
     },
     "portionNote": "La source précise 3 à 4 personnes. Référence de calcul choisie : 4 personnes (80 g de spaghetti secs par personne). Les ajouts d’eau, la taille de la poêle et la durée de cuisson doivent être ajustés selon la quantité.",
     "photo": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Spaghetti%20all%E2%80%99assassina%2C%20Bari.jpg?width=1200",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Spaghetti%20all%E2%80%99assassina%2C%20Bari.jpg?width=1000",
       "page": "https://commons.wikimedia.org/wiki/File:Spaghetti%20all%E2%80%99assassina%2C%20Bari.jpg",
       "author": "ScotInPuglia",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "illustrative": true
+      "illustrative": true,
+      "featured": true,
+      "heroPosition": "center center",
+      "cardPosition": "center center"
     }
   },
   {
@@ -467,12 +476,15 @@
     },
     "portionNote": "La description donne 2 pitas (4 demi-pitas) et 250 g de bœuf, sans indiquer explicitement le nombre de convives. Base de 2 personnes estimée. La viande hachée doit être entièrement cuite.",
     "photo": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Arayes.jpg?width=1200",
-      "page": "https://commons.wikimedia.org/wiki/File:Arayes.jpg",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Arayes%20(1).jpg?width=1000",
+      "page": "https://commons.wikimedia.org/wiki/File:Arayes%20(1).jpg",
       "author": "Laliv g",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "illustrative": true
+      "illustrative": true,
+      "featured": true,
+      "heroPosition": "center center",
+      "cardPosition": "center center"
     }
   },
   {
@@ -657,15 +669,7 @@
       "label": "TikTok — @swiss.fitcook",
       "url": "https://www.tiktok.com/@_/video/7581520983182560515"
     },
-    "portionNote": "La description ne précise pas le rendement total. Base de calcul de 4 portions estimée à partir des 600 g de viande ; vérifier à la réalisation. Les valeurs nutritionnelles annoncées dans la vidéo ne sont pas recalculées ici.",
-    "photo": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Shwarma%2C%20mainly%20as%20lunch.%20Shwarma%20is%20small%20slices%20of%20chicken%2C%20lamb%2C%20or%20beef%2C%20served%20with%20pita%20bread%2C%20salad%2C%20hummus%2C%20tahini%20sauce%2C%20pickles%2C%20and%20chips.jpg?width=1200",
-      "page": "https://commons.wikimedia.org/wiki/File:Shwarma%2C%20mainly%20as%20lunch.%20Shwarma%20is%20small%20slices%20of%20chicken%2C%20lamb%2C%20or%20beef%2C%20served%20with%20pita%20bread%2C%20salad%2C%20hummus%2C%20tahini%20sauce%2C%20pickles%2C%20and%20chips.jpg",
-      "author": "Mohammad Shad Siddiqui",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "illustrative": true
-    }
+    "portionNote": "La description ne précise pas le rendement total. Base de calcul de 4 portions estimée à partir des 600 g de viande ; vérifier à la réalisation. Les valeurs nutritionnelles annoncées dans la vidéo ne sont pas recalculées ici."
   },
   {
     "id": "006",
@@ -783,15 +787,7 @@
       "label": "TikTok — @_lindoush_",
       "url": "https://www.tiktok.com/@_/video/7558140599589735702"
     },
-    "portionNote": "Quantités indiquées explicitement par la créatrice pour 2 personnes. Le dosage de piment (1 c. à soupe pour 2) peut être puissant ; ajuster selon la tolérance au piquant.",
-    "photo": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Taiwanese%20food%20Cold%20Peanut%20Noodles%2C%20Sesame%20Noodles%2C%20white%20Paocai.jpg?width=1200",
-      "page": "https://commons.wikimedia.org/wiki/File:Taiwanese%20food%20Cold%20Peanut%20Noodles%2C%20Sesame%20Noodles%2C%20white%20Paocai.jpg",
-      "author": "一番多鄰國",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "illustrative": true
-    }
+    "portionNote": "Quantités indiquées explicitement par la créatrice pour 2 personnes. Le dosage de piment (1 c. à soupe pour 2) peut être puissant ; ajuster selon la tolérance au piquant."
   },
   {
     "id": "007",
@@ -934,15 +930,7 @@
       "label": "TikTok — @gourmetshit_",
       "url": "https://www.tiktok.com/@_/video/7554828549727784214"
     },
-    "portionNote": "Le nombre de parts n’est pas indiqué. Base de 4 parts estimée pour la tourte entière, à ajuster après essai. Quantités de lard, de moutarde et de dorure absentes de la source.",
-    "photo": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken%20Pie.JPG?width=1200",
-      "page": "https://commons.wikimedia.org/wiki/File:Chicken%20Pie.JPG",
-      "author": "Oddbodz",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "illustrative": true
-    }
+    "portionNote": "Le nombre de parts n’est pas indiqué. Base de 4 parts estimée pour la tourte entière, à ajuster après essai. Quantités de lard, de moutarde et de dorure absentes de la source."
   },
   {
     "id": "008",
