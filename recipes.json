@@ -4451,5 +4451,168 @@
       "checked": "2026-11-24"
     },
     "id": "053"
+  },
+  {
+    "id": "054",
+    "title": "Poulet au beurre de cacahuète et lait de coco",
+    "category": "Volailles",
+    "cuisine": "Cuisine d'inspiration africaine et asiatique",
+    "status": "À tester",
+    "base": 2,
+    "prep": "10 min + 2 h de marinade au frais",
+    "cook": "40 min",
+    "difficulty": "Facile",
+    "equipment": [
+      "Saladier pour la marinade",
+      "Cocotte ou sauteuse avec couvercle",
+      "Planche et couteau",
+      "Cuillère en bois",
+      "Casserole à riz (facultatif)"
+    ],
+    "ingredients": [
+      {
+        "name": "Blancs de poulet",
+        "qty": 500,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🍗",
+        "step": 25
+      },
+      {
+        "name": "Oignon",
+        "qty": 0.5,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Gousse d’ail",
+        "qty": 1,
+        "unit": "gousse",
+        "rule": "whole",
+        "emoji": "🧄"
+      },
+      {
+        "name": "Tomate",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🍅"
+      },
+      {
+        "name": "Concentré de tomate",
+        "qty": 2,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🍅"
+      },
+      {
+        "name": "Cacahuètes",
+        "qty": 1,
+        "unit": "poignée",
+        "rule": "half",
+        "emoji": "🥜"
+      },
+      {
+        "name": "Beurre de cacahuète nature (type Dakatine)",
+        "qty": 2,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🥜"
+      },
+      {
+        "name": "Lait de coco",
+        "qty": 100,
+        "unit": "ml",
+        "rule": "weight",
+        "emoji": "🥥",
+        "step": 10
+      },
+      {
+        "name": "Eau",
+        "qty": 500,
+        "unit": "ml",
+        "rule": "weight",
+        "emoji": "💧",
+        "step": 25
+      },
+      {
+        "name": "Gingembre frais râpé",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🫚"
+      },
+      {
+        "name": "Piment vert",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🌶️"
+      },
+      {
+        "name": "Combava",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🍋"
+      },
+      {
+        "name": "Sauce soja",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🥢"
+      },
+      {
+        "name": "Jus de citron vert",
+        "qty": 0.5,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🍋"
+      },
+      {
+        "name": "Huile d’olive",
+        "qty": 1,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🫒"
+      },
+      {
+        "name": "Beurre",
+        "qty": 1,
+        "unit": "noix",
+        "rule": "whole",
+        "emoji": "🧈"
+      },
+      {
+        "name": "Sel et poivre",
+        "rule": "taste",
+        "emoji": "🧂"
+      }
+    ],
+    "steps": [
+      "Débiter le poulet en bouchées. Dans un saladier, l’enrober d’huile d’olive, de gingembre, de piment, de combava, de sauce soja, de citron vert, de sel et de poivre. Laisser reposer environ deux heures au réfrigérateur.",
+      "Faire fondre une noix de beurre dans une cocotte, puis saisir rapidement le poulet sur ses différentes faces. Le retirer et le garder de côté.",
+      "Dans les sucs de cuisson, attendrir le demi-oignon émincé avec l’ail haché, en ajoutant un trait d’huile seulement si nécessaire.",
+      "Mettre la moitié de la tomate en dés ; cuire quelques minutes, puis intégrer le concentré de tomate et les cacahuètes.",
+      "Mouiller avec l’eau, incorporer le beurre de cacahuète et le lait de coco, puis mélanger jusqu’à obtenir une sauce homogène.",
+      "Remettre le poulet, couvrir et laisser frémir une quinzaine de minutes à feu moyen-doux.",
+      "Retirer le couvercle et laisser réduire environ quinze minutes de plus en mélangeant régulièrement, jusqu’à la consistance désirée. Vérifier la cuisson du poulet à cœur.",
+      "Servir avec du riz si souhaité. Utiliser l’autre moitié de la tomate en petite garniture fraîche, avec un filet d’huile, de citron, de combava ou de piment selon le goût."
+    ],
+    "tip": "Privilégier une purée de cacahuètes sans sucre ajouté. Les 500 ml d’eau sont la quantité de la recette source pour deux personnes : si la sauce paraît trop liquide, prolonger doucement la réduction plutôt que d’épaissir d’un coup. Le combava peut être remplacé par un peu de zeste de citron vert.",
+    "variants": [],
+    "source": {
+      "label": "Lucie Barke — Journal des Femmes Cuisine",
+      "url": "https://cuisine.journaldesfemmes.fr/recette/356349-poulet-au-beurre-de-cacahuete"
+    },
+    "portionNote": "Proportions données pour 2 personnes sur la page d'origine. Total annoncé : 2 h 50, dont 2 h de marinade et 40 min de cuisson. Étapes reformulées ; recette à tester et ajuster après dégustation.",
+    "provenance": {
+      "author": "Lucie Barke",
+      "publication": "Journal des Femmes Cuisine",
+      "url": "https://cuisine.journaldesfemmes.fr/recette/356349-poulet-au-beurre-de-cacahuete",
+      "consulted": "2026-11-24"
+    }
   }
 ]
