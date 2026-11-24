@@ -1,0 +1,458 @@
+{
+  "description": "Images IA à produire lors de la prochaine édition ; liste mise à jour automatiquement lors des changements de recettes.",
+  "total_recettes": 54,
+  "images_realisees": 4,
+  "images_a_realiser": 50,
+  "recettes": [
+    {
+      "id": "005",
+      "titre": "Shawarma croustillant au bœuf",
+      "categorie": "Street food",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/005.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Shawarma croustillant au bœuf. Ingrédients mentionnés dans la fiche : Bœuf haché à 5 % MG, Tomates cerises, Poivron, Cumin moulu pour la viande, Coriandre moulue pour la viande, Paprika pour la viande, Curcuma, cannelle, ail, oignon et paprika fumé (en petites quantités), Harissa pour la viande (facultatif), Harissa pour la sauce rouge. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "006",
+      "titre": "Nouilles au sésame épicées",
+      "categorie": "Pâtes et nouilles",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/006.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Nouilles au sésame épicées. Ingrédients mentionnés dans la fiche : Nouilles sèches (blé, udon, ramen ou soba), Gousses d’ail, Gingembre frais, Poudre de piment rouge, Oignon nouveau, Graines de sésame, Huile de sésame chaude, Sauce soja légère, Jus de citron vert. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "007",
+      "titre": "Tourte au poulet, lard, poireaux et champignons",
+      "categorie": "Plats au four",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/007.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Tourte au poulet, lard, poireaux et champignons. Ingrédients mentionnés dans la fiche : Filets de poulet, Lard fumé (un paquet d’allumettes selon la source), Oignon, Poireau, Champignons portobello, Gousses d’ail, Beurre, Farine, Bouillon de volaille. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "044",
+      "titre": "Palette de porc à la diable",
+      "categorie": "Plats mijotés",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/044.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Palette de porc à la diable. Ingrédients mentionnés dans la fiche : Palette de porc demi-sel, Moutarde de Dijon, Moutarde à l’ancienne, Échalotes, Gousses d’ail, Vin blanc, Bouillon de volaille non salé, Vinaigre de vin, Beurre et huile d’olive. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "045",
+      "titre": "Morbiflette au morbier et à la Morteau",
+      "categorie": "Plats au four",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/045.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Morbiflette au morbier et à la Morteau. Ingrédients mentionnés dans la fiche : Pommes de terre, Saucisse de Morteau, Oignons, Gousse d’ail, Vin blanc du Jura, Crème fraîche, Morbier. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "046",
+      "titre": "Lasagnes montagnardes à la raclette",
+      "categorie": "Plats au four",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/046.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Lasagnes montagnardes à la raclette. Ingrédients mentionnés dans la fiche : Feuilles de lasagne, Fromage à raclette, Jambon blanc, Oignons, Vin blanc, Beurre pour la béchamel, Farine pour la béchamel, Lait, Beurre pour faire revenir les oignons. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "047",
+      "titre": "Tartinade de courgettes, chèvre et poitrine fumée",
+      "categorie": "Apéritifs",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/047.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Tartinade de courgettes, chèvre et poitrine fumée. Ingrédients mentionnés dans la fiche : Petites courgettes, Tête d’ail, Oignon rouge, Chèvre frais, Tranches de poitrine fumée, Basilic, Cébette (facultatif), Huile d’olive, Sel, poivre et piment d’Espelette. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "048",
+      "titre": "Potée de chou à la sauce moutarde",
+      "categorie": "Plats mijotés",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/048.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Potée de chou à la sauce moutarde. Ingrédients mentionnés dans la fiche : Chou vert frisé, Lard fumé, Échine de porc fumée, Eau froide, Oignon, Clous de girofle, Tête d’ail, Bouquet garni, Carottes. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "049",
+      "titre": "Cabillaud lardé, sauce vierge et röstis",
+      "categorie": "Poissons",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/049.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Cabillaud lardé, sauce vierge et röstis. Ingrédients mentionnés dans la fiche : Pommes de terre à chair ferme, Œuf, Huile d’olive pour les röstis, Filets de cabillaud (grands), Tranches fines de poitrine fumée, Échalote, Oignon rouge, Gousses d’ail, Persil plat. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "050",
+      "titre": "Tomates très bien farcies — feta et olives",
+      "categorie": "Plats au four",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/050.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Tomates très bien farcies — feta et olives. Ingrédients mentionnés dans la fiche : Tranches de pain de mie, Lait pour imbiber le pain, Bœuf haché, Chair à saucisse, Oignon, Échalotes, Œuf, Feta, Gousses d’ail. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "051",
+      "titre": "Pâtes à la savoyarde au reblochon et aux diots",
+      "categorie": "Pâtes",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/051.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Pâtes à la savoyarde au reblochon et aux diots. Ingrédients mentionnés dans la fiche : Oignon, Beurre, Diots de Savoie, Pâtes, Vin blanc de Savoie, Crème fraîche entière, Reblochon, Persil plat ciselé, Poivre. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "052",
+      "titre": "Tartiflette savoyarde de Chester Foodies",
+      "categorie": "Plats au four",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/052.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Tartiflette savoyarde de Chester Foodies. Ingrédients mentionnés dans la fiche : Lard fumé, Oignons, Gousses d’ail, Vin blanc, Pommes de terre à chair ferme, Reblochon fermier. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "053",
+      "titre": "Cordons-bleus maison au comté",
+      "categorie": "Volailles",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/053.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Cordons-bleus maison au comté. Ingrédients mentionnés dans la fiche : Filets de poulet, Tranches de jambon blanc, Tranches de comté, Farine, Œuf, Chapelure, Beurre, Huile neutre, Sel et poivre. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "054",
+      "titre": "Poulet au beurre de cacahuète et lait de coco",
+      "categorie": "Volailles",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/054.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Poulet au beurre de cacahuète et lait de coco. Ingrédients mentionnés dans la fiche : Blancs de poulet, Oignon, Gousse d’ail, Tomate, Concentré de tomate, Cacahuètes, Beurre de cacahuète nature (type Dakatine), Lait de coco, Eau. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "008",
+      "titre": "Mac’n’cheese au Beaufort",
+      "categorie": "Pâtes et nouilles",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/008.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Mac’n’cheese au Beaufort. Ingrédients mentionnés dans la fiche : Macaronis, Beaufort, Poitrine fumée, Moutarde, Sirop d’érable, Paprika fumé, Piment d’Espelette, Poivre. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "009",
+      "titre": "Nouilles sautées au poulet (Pad See Ew)",
+      "categorie": "Pâtes et nouilles",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/009.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Nouilles sautées au poulet (Pad See Ew). Ingrédients mentionnés dans la fiche : Nouilles de riz, Cuisse de poulet, Brocolini, Œufs, Sauce soja, Sauce huître, Sucre, Citron vert. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "010",
+      "titre": "Shawarma de poulet à l’ail confit",
+      "categorie": "Street food",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/010.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Shawarma de poulet à l’ail confit. Ingrédients mentionnés dans la fiche : Cuisses de poulet, Yaourt, Huile d’olive, Citron, Ail fumé, Concentré de tomate, Épices shawarma, Eau, Fécule de maïs. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "011",
+      "titre": "Jalapeños farcis au cheddar",
+      "categorie": "Apéritifs",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/011.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Jalapeños farcis au cheddar. Ingrédients mentionnés dans la fiche : Jalapeños, Vache qui rit ou Philadelphia, Cheddar râpé, Échalote, Ciboulette, Crème fraîche, Miel, Épices Tajín, Sauce soja. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "012",
+      "titre": "Burger smash rösti",
+      "categorie": "Burgers et sandwiches",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/012.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Burger smash rösti. Ingrédients mentionnés dans la fiche : Pain burger, Sauce au poivre, Steaks hachés, Cheddar, Pickles d’oignons rouges, Rösti. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "013",
+      "titre": "Sandwich merguez-frites revisité",
+      "categorie": "Burgers et sandwiches",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/013.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Sandwich merguez-frites revisité. Ingrédients mentionnés dans la fiche : Merguez, Pommes de terre, Pain à sandwich. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "014",
+      "titre": "Sandwich au confit de canard",
+      "categorie": "Burgers et sandwiches",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/014.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Sandwich au confit de canard. Ingrédients mentionnés dans la fiche : Baguette tradition, Graisse de canard, Ketchup mangue-passion, Confit de canard, Cantal, Noix de cajou, Mâche, Persil, Pickles de graines de moutarde. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "015",
+      "titre": "Pâté aux pommes de terre",
+      "categorie": "Plats au four",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/015.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Pâté aux pommes de terre. Ingrédients mentionnés dans la fiche : Pâte feuilletée, Jaune d’œuf, Pommes de terre à chair ferme, Crème fraîche épaisse, Oignons, Ail, Persil plat, Sel, Poivre noir. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "016",
+      "titre": "Braciole farcies en sauce tomate",
+      "categorie": "Plats mijotés",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/016.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Braciole farcies en sauce tomate. Ingrédients mentionnés dans la fiche : Bavette de bœuf, Lardons, Persil, Ail, Oignon, Pecorino, Piment d’Espelette, Purée de tomates, Basilic. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "017",
+      "titre": "Hachis parmentier maison",
+      "categorie": "Plats au four",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/017.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Hachis parmentier maison. Ingrédients mentionnés dans la fiche : Pommes de terre, Beurre, Lait, Crème épaisse, Viande hachée, Oignon, Ail, Huile d’olive, Fromage râpé. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "018",
+      "titre": "Tartare de bavette snacké",
+      "categorie": "Viandes",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/018.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Tartare de bavette snacké. Ingrédients mentionnés dans la fiche : Bavette de bœuf, Échalote, Cornichons, Câpres, Persil, Radis roses, Jaunes d’œufs, Moutarde à l’ancienne, Moutarde forte. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "019",
+      "titre": "Brownies millionnaires",
+      "categorie": "Desserts",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/019.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Brownies millionnaires. Ingrédients mentionnés dans la fiche : Chocolat noir, Beurre, Sucre, Vergeoise, Œufs, Farine, Cacao en poudre, Sel, Miel. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "020",
+      "titre": "Pommes boulangères",
+      "categorie": "Accompagnements",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/020.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Pommes boulangères. Ingrédients mentionnés dans la fiche : Pommes de terre, Oignons, Beurre, Bouillon de bœuf, Huile d’olive, Thym frais, Sel, Poivre noir. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "021",
+      "titre": "Pancakes chocolat-Nutella",
+      "categorie": "Desserts",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/021.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Pancakes chocolat-Nutella. Ingrédients mentionnés dans la fiche : Chocolat, Nutella. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "022",
+      "titre": "Shio pan — petits pains japonais au sel",
+      "categorie": "Pains et boulangerie",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/022.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Shio pan — petits pains japonais au sel. Ingrédients mentionnés dans la fiche : Farine de blé, Eau, Sucre, Lait en poudre, Beurre, Sel, Levure boulangère déshydratée. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "023",
+      "titre": "Cookie pie au Nutella",
+      "categorie": "Desserts",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/023.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Cookie pie au Nutella. Ingrédients mentionnés dans la fiche : Nutella. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "024",
+      "titre": "Ramen au canard",
+      "categorie": "Soupes et bouillons",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/024.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Ramen au canard. Ingrédients mentionnés dans la fiche : Canard, Nouilles ramen. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "025",
+      "titre": "New York rolls au chocolat",
+      "categorie": "Pains et boulangerie",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/025.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : New York rolls au chocolat. Ingrédients mentionnés dans la fiche : Pâte feuilletée, Chocolat. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "026",
+      "titre": "Magret de canard séché",
+      "categorie": "Charcuterie maison",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/026.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Magret de canard séché. Ingrédients mentionnés dans la fiche : Magret de canard, Sel. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "027",
+      "titre": "Soupe phở",
+      "categorie": "Soupes et bouillons",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/027.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Soupe phở. Ingrédients mentionnés dans la fiche : Bouillon, Nouilles de riz. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "028",
+      "titre": "Burritos au confit de canard",
+      "categorie": "Street food",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/028.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Burritos au confit de canard. Ingrédients mentionnés dans la fiche : Confit de canard, Poireaux, Oignon, Beurre ou huile d’olive, Paprika fumé, Piment d’Espelette, Concentré de tomate, Vin blanc, Haricots. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "029",
+      "titre": "Cassoulet maison",
+      "categorie": "Plats mijotés",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/029.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Cassoulet maison. Ingrédients mentionnés dans la fiche : Ingrédients non indiqués dans la description. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "030",
+      "titre": "Nouilles au poivre de Sichuan",
+      "categorie": "Pâtes et nouilles",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/030.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Nouilles au poivre de Sichuan. Ingrédients mentionnés dans la fiche : Poivre de Sichuan, Ciboule, Ail, Gingembre, Cacahuètes, Tahini, Vinaigre noir ou vinaigre de riz, Sauce soja, Sauce soja foncée. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "031",
+      "titre": "Birria pasta",
+      "categorie": "Pâtes et nouilles",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/031.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Birria pasta. Ingrédients mentionnés dans la fiche : Bœuf à braiser, Sel, Poivre, Oignons, Ail, Tomates cerises, Concentré de tomate, Bouillon de bœuf, Piments guajillo et ancho. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "032",
+      "titre": "Carbonade flamande à la Chimay",
+      "categorie": "Plats mijotés",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/032.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Carbonade flamande à la Chimay. Ingrédients mentionnés dans la fiche : Joue de bœuf, Lard, Oignons, Échalotes, Ail, Céleri, Bière brune Chimay Bleue, Bouillon de légumes, Saindoux. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "033",
+      "titre": "Kebab maison avec pain pita et sauce blanche",
+      "categorie": "Street food",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/033.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Kebab maison avec pain pita et sauce blanche. Ingrédients mentionnés dans la fiche : Farine, Sel, Sucre, Levure sèche, Yaourt, Eau, Huile d’olive, Filets de volaille, Filets de veau. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "034",
+      "titre": "Pâte aux carottes multifonction",
+      "categorie": "Pains et boulangerie",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/034.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Pâte aux carottes multifonction. Ingrédients mentionnés dans la fiche : Carottes cuites à la vapeur, Farine, Sel, Épices au choix. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "035",
+      "titre": "Jerk chicken jamaïcain",
+      "categorie": "Viandes",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/035.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Jerk chicken jamaïcain. Ingrédients mentionnés dans la fiche : Poulet, Oignon, Ail, Piment, Haricots rouges, Thym, Vinaigre de cidre, Gingembre, Lait de coco. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "036",
+      "titre": "Harira marocaine à l’agneau",
+      "categorie": "Soupes et bouillons",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/036.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Harira marocaine à l’agneau. Ingrédients mentionnés dans la fiche : Épaule d’agneau, Huile, Oignon, Ail, Concentré de tomate, Gingembre, Curcuma, Cannelle, Cumin. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "037",
+      "titre": "Curry mee malaisien",
+      "categorie": "Soupes et bouillons",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/037.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Curry mee malaisien. Ingrédients mentionnés dans la fiche : Huile, Oignons, Ail, Gingembre, Citronnelle, Pâte de curry rouge, Hauts de cuisse de poulet, Poudre de curry, Curcuma. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "038",
+      "titre": "Pâte à tartiner façon Kinder Bueno",
+      "categorie": "Desserts",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/038.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Pâte à tartiner façon Kinder Bueno. Ingrédients mentionnés dans la fiche : ingrédients non encore documentés. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "039",
+      "titre": "Poulet rôti du dimanche à basse température",
+      "categorie": "Viandes",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/039.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Poulet rôti du dimanche à basse température. Ingrédients mentionnés dans la fiche : Poulet entier. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "040",
+      "titre": "Joue de bœuf braisée",
+      "categorie": "Plats mijotés",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/040.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Joue de bœuf braisée. Ingrédients mentionnés dans la fiche : Joue de bœuf. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "041",
+      "titre": "Poulet farci au chorizo et à la mozzarella",
+      "categorie": "Viandes",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/041.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Poulet farci au chorizo et à la mozzarella. Ingrédients mentionnés dans la fiche : Poulet, Chorizo, Mozzarella. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "042",
+      "titre": "Hydromel maison",
+      "categorie": "Boissons",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/042.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Hydromel maison. Ingrédients mentionnés dans la fiche : Miel, Eau. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "043",
+      "titre": "Birria tacos",
+      "categorie": "Street food",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/043.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Birria tacos. Ingrédients mentionnés dans la fiche : Bœuf, Tortillas. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    }
+  ]
+}
