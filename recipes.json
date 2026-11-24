@@ -90,5 +90,802 @@
         "emoji": "🧂"
       }
     ]
+  },
+  {
+    "id": "002",
+    "title": "Bœuf aux oignons — deux cuissons",
+    "category": "Cuisine asiatique",
+    "cuisine": "Cuisine chinoise",
+    "status": "À tester",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "15 s de friture (variante 2) ; durée totale non précisée",
+    "difficulty": "Intermédiaire",
+    "equipment": [
+      "Couteau et planche à découper",
+      "Saladier",
+      "Poêle ou wok",
+      "Écumoire pour la variante frite"
+    ],
+    "ingredients": [
+      {
+        "name": "Bœuf en lamelles fines",
+        "qty": 400,
+        "unit": "g",
+        "rule": "weight",
+        "step": 10,
+        "emoji": "🥩"
+      },
+      {
+        "name": "Eau pour la marinade",
+        "qty": 120,
+        "unit": "g",
+        "rule": "weight",
+        "step": 10,
+        "emoji": "💧"
+      },
+      {
+        "name": "Bicarbonate alimentaire",
+        "qty": 3,
+        "unit": "g",
+        "rule": "weight",
+        "step": 1,
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sel pour la marinade",
+        "qty": 3,
+        "unit": "g",
+        "rule": "weight",
+        "step": 1,
+        "emoji": "🧂"
+      },
+      {
+        "name": "Sauce soja",
+        "qty": 10,
+        "unit": "g",
+        "rule": "weight",
+        "step": 1,
+        "emoji": "🥣"
+      },
+      {
+        "name": "Sauce huître",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🥣"
+      },
+      {
+        "name": "Sauce soja foncée (dark soy)",
+        "qty": 1,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🥣"
+      },
+      {
+        "name": "Poivre blanc (une pincée)",
+        "rule": "taste",
+        "emoji": "🧂"
+      },
+      {
+        "name": "Oignons à émincer",
+        "rule": "unknown",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Maïzena pour la variante frite",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Huile de cuisson",
+        "rule": "unknown",
+        "emoji": "🫒"
+      },
+      {
+        "name": "Cébette pour le service",
+        "rule": "unknown",
+        "emoji": "🌱"
+      }
+    ],
+    "steps": [
+      "Découper le bœuf en fines lamelles perpendiculaires aux fibres.",
+      "Mélanger l’eau, le bicarbonate, le sel, la sauce soja, la sauce huître, le poivre blanc et la sauce soja foncée. Incorporer progressivement à la viande en la massant délicatement jusqu’à absorption.",
+      "Émincer les oignons puis choisir l’une des deux méthodes ci-dessous."
+    ],
+    "tip": "La première méthode précuit le bœuf à feu très doux ; la seconde réalise une friture éclair de 15 secondes avant de le sauter. Dans les deux cas, terminer la cuisson jusqu’au degré de cuisson souhaité et servir sans attendre.",
+    "variants": [
+      {
+        "title": "Cuisson douce — méthode Nabil",
+        "description": "Faire précuire le bœuf dans un léger filet d’huile à feu très doux, réserver, faire cuire les oignons, puis remettre la viande. Ajouter, si souhaité, une liaison eau–sauce soja foncée–fécule dont la quantité n’est pas indiquée."
+      },
+      {
+        "title": "Friture éclair — méthode Olivier",
+        "description": "Enrober la viande marinée de Maïzena, la plonger très brièvement dans l’huile chaude (15 secondes), égoutter puis faire sauter avec les oignons. Ajouter du poivre blanc et dresser éventuellement avec la cébette."
+      }
+    ],
+    "source": {
+      "label": "TikTok — @nabil_zemmouri",
+      "url": "https://www.tiktok.com/@_/video/7640848184280976673"
+    },
+    "portionNote": "La source donne les pesées pour 400 g de bœuf, sans préciser le nombre de parts. Affichage de référence pour 2 personnes par hypothèse, à ajuster après essai. Quantités d’oignons, d’huile et de fécule absentes de la description."
+  },
+  {
+    "id": "003",
+    "title": "Spaghetti all’assassina",
+    "category": "Pâtes et nouilles",
+    "cuisine": "Italie — Pouilles",
+    "status": "À tester",
+    "base": 4,
+    "prep": "Non précisé",
+    "cook": "8–9 min de cuisson à la poêle (selon la source)",
+    "difficulty": "Intermédiaire",
+    "equipment": [
+      "Casserole pour le bouillon de tomate",
+      "Grande poêle",
+      "Louche",
+      "Pince ou spatule"
+    ],
+    "ingredients": [
+      {
+        "name": "Spaghetti secs",
+        "qty": 320,
+        "unit": "g",
+        "rule": "weight",
+        "step": 10,
+        "emoji": "🍝"
+      },
+      {
+        "name": "Passata de tomate",
+        "qty": 400,
+        "unit": "g",
+        "rule": "weight",
+        "step": 10,
+        "emoji": "🍅"
+      },
+      {
+        "name": "Concentré de tomate (2 à 3 c. à soupe pour 4)",
+        "qty": 2.5,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🍅"
+      },
+      {
+        "name": "Huile d’olive",
+        "qty": 100,
+        "unit": "ml",
+        "rule": "weight",
+        "step": 5,
+        "emoji": "🫒"
+      },
+      {
+        "name": "Ail",
+        "qty": 3,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🧄"
+      },
+      {
+        "name": "Sucre",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Eau pour le bouillon",
+        "qty": 1000,
+        "unit": "ml",
+        "rule": "weight",
+        "step": 50,
+        "emoji": "💧"
+      },
+      {
+        "name": "Harissa ou piment en paillettes",
+        "rule": "taste",
+        "emoji": "🌶️"
+      },
+      {
+        "name": "Sel",
+        "rule": "taste",
+        "emoji": "🧂"
+      }
+    ],
+    "steps": [
+      "Dans une casserole, faire frémir 1 litre d’eau avec 300 g de passata et le concentré de tomate pour obtenir un bouillon léger (quantités d’origine pour 3–4 personnes).",
+      "Chauffer l’huile d’olive dans une grande poêle avec l’ail écrasé et la harissa ou le piment. Laisser blondir l’ail.",
+      "Ajouter les 100 g de passata restants, puis disposer les spaghetti secs dans la poêle à feu moyen.",
+      "Laisser frire les spaghetti sans les remuer jusqu’à former une croûte légèrement brunie, sans brûler.",
+      "Retourner délicatement les pâtes. Ajouter deux louches de bouillon, laisser évaporer, puis répéter les ajouts en alternant caramélisation et humidification.",
+      "Poursuivre environ 8 à 9 minutes selon la source, jusqu’à ce que les pâtes soient tendres, rouge-brun et croustillantes par endroits. Servir immédiatement."
+    ],
+    "tip": "Cuisson par absorption, sans précuisson à l’eau des spaghetti. Le sucre figure dans les ingrédients de la source mais son étape d’ajout n’y est pas précisée.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @france.inter",
+      "url": "https://www.tiktok.com/@_/video/7621588256840371478"
+    },
+    "portionNote": "La source précise 3 à 4 personnes. Référence de calcul choisie : 4 personnes (80 g de spaghetti secs par personne). Les ajouts d’eau, la taille de la poêle et la durée de cuisson doivent être ajustés selon la quantité."
+  },
+  {
+    "id": "004",
+    "title": "Arayes croustillants au bœuf et à la feta",
+    "category": "Street food",
+    "cuisine": "Cuisine levantine",
+    "status": "À tester",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "3–4 min par face à la poêle ou 20 min à 200 °C au four",
+    "difficulty": "Facile",
+    "equipment": [
+      "Saladier",
+      "Couteau et planche",
+      "Grande poêle et spatule ou four",
+      "Râpe"
+    ],
+    "ingredients": [
+      {
+        "name": "Bœuf haché",
+        "qty": 250,
+        "unit": "g",
+        "rule": "weight",
+        "step": 5,
+        "emoji": "🥩"
+      },
+      {
+        "name": "Petit oignon",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Feta",
+        "qty": 70,
+        "unit": "g",
+        "rule": "weight",
+        "step": 5,
+        "emoji": "🧀"
+      },
+      {
+        "name": "Ail pour la farce",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🧄"
+      },
+      {
+        "name": "Persil ou menthe",
+        "qty": 1,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🌱"
+      },
+      {
+        "name": "Mélange paprika, cannelle, cumin, piment de Cayenne et coriandre",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🌶️"
+      },
+      {
+        "name": "Pains pita",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🥙"
+      },
+      {
+        "name": "Huile d’olive pour les pains",
+        "qty": 1,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🫒"
+      },
+      {
+        "name": "Skyr pour la sauce",
+        "qty": 200,
+        "unit": "g",
+        "rule": "weight",
+        "step": 5,
+        "emoji": "🥣"
+      },
+      {
+        "name": "Ail pour la sauce",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🧄"
+      },
+      {
+        "name": "Jus de citron pour la sauce",
+        "qty": 1,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🍋"
+      },
+      {
+        "name": "Huile d’olive pour la sauce",
+        "qty": 1,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🫒"
+      },
+      {
+        "name": "Persil, sel et poivre pour la sauce",
+        "rule": "taste",
+        "emoji": "🌱"
+      },
+      {
+        "name": "Sel et poivre pour la farce",
+        "rule": "taste",
+        "emoji": "🧂"
+      }
+    ],
+    "steps": [
+      "Mélanger le bœuf haché avec la feta émiettée, l’oignon finement haché, l’ail râpé, les herbes, les épices, le sel et le poivre.",
+      "Couper les pitas en deux et les ouvrir délicatement pour former des poches.",
+      "Répartir la farce jusqu’aux bords des demi-pitas, puis badigeonner légèrement l’extérieur d’huile d’olive.",
+      "À la poêle chaude sur feu moyen-fort, faire cuire 3 à 4 minutes par face en appuyant doucement. Vérifier que la viande hachée est entièrement cuite. Alternative indiquée : 20 minutes au four à 200 °C.",
+      "Préparer la sauce en mélangeant le skyr, l’ail, le citron, l’huile d’olive, le persil, le sel et le poivre.",
+      "Laisser reposer les arayes 2 minutes et servir chauds avec la sauce."
+    ],
+    "tip": "La description regroupe plusieurs épices derrière « 1 c. à café » sans dire clairement si cette dose vaut pour tout le mélange ou pour chaque épice ; la fiche retient 1 c. à café de mélange, à vérifier.",
+    "variants": [
+      {
+        "title": "Cuisson au four",
+        "description": "Cuire les arayes 20 minutes à 200 °C, selon la méthode alternative indiquée par la créatrice."
+      }
+    ],
+    "source": {
+      "label": "TikTok — @_lindoush_",
+      "url": "https://www.tiktok.com/@_/video/7606767447613656323"
+    },
+    "portionNote": "La description donne 2 pitas (4 demi-pitas) et 250 g de bœuf, sans indiquer explicitement le nombre de convives. Base de 2 personnes estimée. La viande hachée doit être entièrement cuite."
+  },
+  {
+    "id": "005",
+    "title": "Shawarma croustillant au bœuf",
+    "category": "Street food",
+    "cuisine": "Cuisine orientale revisitée",
+    "status": "À tester",
+    "base": 4,
+    "prep": "Non précisé",
+    "cook": "15 min au four à 190–200 °C, puis 1 à 2 min de finition",
+    "difficulty": "Intermédiaire",
+    "equipment": [
+      "Four",
+      "Plat à four et grille",
+      "Papier cuisson",
+      "Saladiers",
+      "Poêle ou air fryer"
+    ],
+    "ingredients": [
+      {
+        "name": "Bœuf haché à 5 % MG",
+        "qty": 600,
+        "unit": "g",
+        "rule": "weight",
+        "step": 10,
+        "emoji": "🥩"
+      },
+      {
+        "name": "Tomates cerises",
+        "rule": "unknown",
+        "emoji": "🍅"
+      },
+      {
+        "name": "Poivron",
+        "rule": "unknown",
+        "emoji": "🫑"
+      },
+      {
+        "name": "Cumin moulu pour la viande",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Coriandre moulue pour la viande",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🌱"
+      },
+      {
+        "name": "Paprika pour la viande",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🌶️"
+      },
+      {
+        "name": "Curcuma, cannelle, ail, oignon et paprika fumé (en petites quantités)",
+        "rule": "unknown",
+        "emoji": "🧂"
+      },
+      {
+        "name": "Harissa pour la viande (facultatif)",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🌶️"
+      },
+      {
+        "name": "Harissa pour la sauce rouge",
+        "qty": 1,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🌶️"
+      },
+      {
+        "name": "Concentré de tomate pour la sauce rouge",
+        "qty": 1,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🍅"
+      },
+      {
+        "name": "Bouillon pour la sauce rouge",
+        "qty": 150,
+        "unit": "ml",
+        "rule": "weight",
+        "step": 10,
+        "emoji": "🥣"
+      },
+      {
+        "name": "Paprika pour la sauce rouge",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🌶️"
+      },
+      {
+        "name": "Cumin pour la sauce rouge",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Oignon rouge pour les pickles au sumac",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Sumac",
+        "qty": 1,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🌶️"
+      },
+      {
+        "name": "Jus de citron pour les pickles",
+        "qty": 0.5,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🍋"
+      },
+      {
+        "name": "Yaourt grec 0 % pour la sauce blanche",
+        "qty": 200,
+        "unit": "g",
+        "rule": "weight",
+        "step": 5,
+        "emoji": "🥣"
+      },
+      {
+        "name": "Ail pour la sauce blanche",
+        "qty": 2.5,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🧄"
+      },
+      {
+        "name": "Jus de citron pour la sauce blanche",
+        "qty": 0.5,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🍋"
+      },
+      {
+        "name": "Cumin pour la sauce blanche",
+        "qty": 0.5,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Pain libanais",
+        "rule": "unknown",
+        "emoji": "🫓"
+      },
+      {
+        "name": "Sel, poivre, zaatar et persil",
+        "rule": "taste",
+        "emoji": "🌱"
+      }
+    ],
+    "steps": [
+      "Disposer les tomates cerises et les lanières de poivron dans un plat, assaisonner avec le zaatar, le sel et un peu d’huile. Placer une grille au-dessus.",
+      "Assaisonner le bœuf avec cumin, coriandre, paprika, autres épices, harissa facultative, sel et poivre. Étaler la viande entre deux feuilles de papier cuisson, rouler en couches et poser les rouleaux sur la grille.",
+      "Enfourner à 190–200 °C, chaleur tournante, pendant environ 15 minutes ; le jus tombe sur les légumes.",
+      "Mélanger la harissa, le concentré de tomate, le bouillon, le paprika, le cumin et une partie du jus de cuisson pour préparer la sauce rouge.",
+      "Défaire les rouleaux de viande en lamelles, les enrober de sauce rouge puis les saisir 1 à 2 minutes à la poêle ou à l’air fryer.",
+      "Mélanger l’oignon rouge émincé, le sumac, le jus de citron, le sel et le persil ; laisser reposer 10 minutes.",
+      "Préparer la sauce blanche avec yaourt grec, ail, jus de citron, cumin, sel et poivre.",
+      "Chauffer brièvement le pain libanais, garnir avec sauce blanche, légumes, bœuf croustillant et oignons au sumac, puis rouler. Badigeonner d’un peu de sauce rouge et dorer encore 1 à 2 minutes."
+    ],
+    "tip": "Le créateur propose en option du miel ou du sirop d’agave dans la sauce rouge, et du tahini dans la sauce blanche. Le nombre de pains, la quantité de légumes et certaines épices ne sont pas précisés.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @swiss.fitcook",
+      "url": "https://www.tiktok.com/@_/video/7581520983182560515"
+    },
+    "portionNote": "La description ne précise pas le rendement total. Base de calcul de 4 portions estimée à partir des 600 g de viande ; vérifier à la réalisation. Les valeurs nutritionnelles annoncées dans la vidéo ne sont pas recalculées ici."
+  },
+  {
+    "id": "006",
+    "title": "Nouilles au sésame épicées",
+    "category": "Pâtes et nouilles",
+    "cuisine": "Cuisine asiatique revisitée",
+    "status": "À tester",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Selon la cuisson des nouilles choisies",
+    "difficulty": "Facile",
+    "equipment": [
+      "Casserole",
+      "Passoire",
+      "Bol résistant à la chaleur",
+      "Petite casserole pour chauffer l’huile"
+    ],
+    "ingredients": [
+      {
+        "name": "Nouilles sèches (blé, udon, ramen ou soba)",
+        "qty": 180,
+        "unit": "g",
+        "rule": "weight",
+        "step": 5,
+        "emoji": "🍜"
+      },
+      {
+        "name": "Ail",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🧄"
+      },
+      {
+        "name": "Gingembre frais",
+        "qty": 15,
+        "unit": "g",
+        "rule": "weight",
+        "step": 5,
+        "emoji": "🫚"
+      },
+      {
+        "name": "Poudre de piment rouge",
+        "qty": 1,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🌶️"
+      },
+      {
+        "name": "Oignon nouveau",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Graines de sésame",
+        "qty": 12,
+        "unit": "g",
+        "rule": "weight",
+        "step": 1,
+        "emoji": "🌱"
+      },
+      {
+        "name": "Huile de sésame chaude",
+        "qty": 30,
+        "unit": "ml",
+        "rule": "weight",
+        "step": 5,
+        "emoji": "🫒"
+      },
+      {
+        "name": "Sauce soja légère",
+        "qty": 60,
+        "unit": "ml",
+        "rule": "weight",
+        "step": 5,
+        "emoji": "🥣"
+      },
+      {
+        "name": "Jus de citron vert",
+        "qty": 20,
+        "unit": "ml",
+        "rule": "weight",
+        "step": 5,
+        "emoji": "🍋"
+      },
+      {
+        "name": "Tahini",
+        "qty": 25,
+        "unit": "g",
+        "rule": "weight",
+        "step": 5,
+        "emoji": "🥄"
+      },
+      {
+        "name": "Beurre de cacahuète",
+        "qty": 15,
+        "unit": "g",
+        "rule": "weight",
+        "step": 5,
+        "emoji": "🥜"
+      }
+    ],
+    "steps": [
+      "Cuire les nouilles selon les indications du paquet puis les rincer à l’eau froide.",
+      "Dans un bol résistant à la chaleur, réunir l’ail haché, le gingembre râpé, le piment, l’oignon nouveau et les graines de sésame.",
+      "Faire chauffer l’huile de sésame, puis la verser prudemment sur les aromates pour les faire grésiller. Mélanger.",
+      "Ajouter la sauce soja, le jus de citron vert, le tahini et le beurre de cacahuète. Mélanger jusqu’à obtenir une sauce homogène.",
+      "Enrober les nouilles de sauce, puis servir avec un peu d’oignon nouveau et de sésame."
+    ],
+    "tip": "Attention à la contradiction dans la source : la liste d’ingrédients précise 20 ml de jus de citron vert, tandis que l’étape 4 parle de « vinaigre » sans quantité. Version présentée avec le citron vert de la liste ; à vérifier lors du test.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @_lindoush_",
+      "url": "https://www.tiktok.com/@_/video/7558140599589735702"
+    },
+    "portionNote": "Quantités indiquées explicitement par la créatrice pour 2 personnes. Le dosage de piment (1 c. à soupe pour 2) peut être puissant ; ajuster selon la tolérance au piquant."
+  },
+  {
+    "id": "007",
+    "title": "Tourte au poulet, lard, poireaux et champignons",
+    "category": "Plats au four",
+    "cuisine": "Cuisine familiale",
+    "status": "À tester",
+    "base": 4,
+    "prep": "Non précisé",
+    "cook": "20 min à 190 °C pour le passage au four",
+    "difficulty": "Intermédiaire",
+    "equipment": [
+      "Poêle ou cocotte",
+      "Planche et couteau",
+      "Plat à gratin",
+      "Four",
+      "Pinceau pour la dorure"
+    ],
+    "ingredients": [
+      {
+        "name": "Filets de poulet",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🍗"
+      },
+      {
+        "name": "Lard fumé (un paquet d’allumettes selon la source)",
+        "rule": "unknown",
+        "emoji": "🥓"
+      },
+      {
+        "name": "Oignon",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Poireau",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🥬"
+      },
+      {
+        "name": "Champignons portobello",
+        "qty": 3,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🍄"
+      },
+      {
+        "name": "Ail",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🧄"
+      },
+      {
+        "name": "Beurre",
+        "qty": 50,
+        "unit": "g",
+        "rule": "weight",
+        "step": 5,
+        "emoji": "🧈"
+      },
+      {
+        "name": "Farine",
+        "qty": 50,
+        "unit": "g",
+        "rule": "weight",
+        "step": 5,
+        "emoji": "🌾"
+      },
+      {
+        "name": "Bouillon de volaille",
+        "qty": 500,
+        "unit": "ml",
+        "rule": "weight",
+        "step": 25,
+        "emoji": "🥣"
+      },
+      {
+        "name": "Vin blanc sec (10 à 15 cl indiqués)",
+        "qty": 125,
+        "unit": "ml",
+        "rule": "weight",
+        "step": 5,
+        "emoji": "🍷"
+      },
+      {
+        "name": "Crème entière liquide (20 ml dans la source)",
+        "qty": 20,
+        "unit": "ml",
+        "rule": "weight",
+        "step": 5,
+        "emoji": "🥛"
+      },
+      {
+        "name": "Moutarde forte",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Pâte feuilletée",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🥧"
+      },
+      {
+        "name": "Œuf pour la dorure",
+        "rule": "unknown",
+        "emoji": "🥚"
+      },
+      {
+        "name": "Sel, poivre, thym et persil frais",
+        "rule": "taste",
+        "emoji": "🌱"
+      },
+      {
+        "name": "Piment d’Espelette (facultatif)",
+        "rule": "taste",
+        "emoji": "🌶️"
+      }
+    ],
+    "steps": [
+      "Faire revenir les allumettes de lard jusqu’à coloration. Cuire les dés de poulet dans la même cocotte avec le sel et, si souhaité, le piment. Réserver les viandes.",
+      "Dans cette même cocotte, faire revenir l’oignon, le poireau et l’ail avec le beurre.",
+      "Ajouter les champignons coupés en gros dés, faire dorer, puis assaisonner avec sel et thym.",
+      "Déglacer au vin blanc sec. Incorporer la farine, puis le bouillon de volaille en remuant jusqu’à épaississement. Ajouter la crème liquide.",
+      "Assaisonner de moutarde forte et de poivre ; remettre le poulet et le lard, puis incorporer le persil frais.",
+      "Transférer la garniture dans un plat à gratin. Couvrir avec la pâte feuilletée et la dorer à l’œuf.",
+      "Enfourner 20 minutes à 190 °C selon la source. Laisser tiédir légèrement avant de servir."
+    ],
+    "tip": "La description indique seulement 20 ml de crème entière, quantité à vérifier. Elle donne 10 à 15 cl de vin blanc ; la fiche utilise 12,5 cl comme milieu de la plage pour le calcul automatique.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @gourmetshit_",
+      "url": "https://www.tiktok.com/@_/video/7554828549727784214"
+    },
+    "portionNote": "Le nombre de parts n’est pas indiqué. Base de 4 parts estimée pour la tourte entière, à ajuster après essai. Quantités de lard, de moutarde et de dorure absentes de la source."
   }
 ]
