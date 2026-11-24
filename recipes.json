@@ -4606,5 +4606,885 @@
       "url": "https://cuisine.journaldesfemmes.fr/recette/356349-poulet-au-beurre-de-cacahuete",
       "consulted": "2026-11-24"
     }
+  },
+  {
+    "title": "Carbonara basque au Kintoa et à l’Ossau-Iraty",
+    "category": "Pâtes",
+    "cuisine": "Pays basque — revisite",
+    "status": "À tester",
+    "base": 4,
+    "prep": "15–20 min (estimation)",
+    "cook": "15 min (estimation)",
+    "difficulty": "Facile",
+    "equipment": [
+      "Casserole",
+      "Poêle",
+      "Râpe",
+      "Grand bol"
+    ],
+    "ingredients": [
+      {
+        "name": "Spaghetti",
+        "qty": 400,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🍝",
+        "step": 25
+      },
+      {
+        "name": "Poitrine de porc Kintoa",
+        "qty": 150,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🥓",
+        "step": 25
+      },
+      {
+        "name": "Ossau-Iraty",
+        "qty": 200,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🧀",
+        "step": 25
+      },
+      {
+        "name": "Jaunes d’œuf",
+        "qty": 5,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🥚"
+      },
+      {
+        "name": "Poivre noir en grains",
+        "rule": "taste",
+        "emoji": "🧂"
+      },
+      {
+        "name": "Piment d’Espelette",
+        "rule": "taste",
+        "emoji": "🌶️"
+      },
+      {
+        "name": "Eau de cuisson des pâtes",
+        "rule": "taste",
+        "emoji": "💧"
+      }
+    ],
+    "steps": [
+      "Faire griller légèrement le poivre en grains dans une petite poêle sèche puis l’écraser. Battre les jaunes d’œufs avec une partie du poivre.",
+      "Tailler la poitrine Kintoa en petits lardons. Les colorer jusqu’à ce qu’ils soient croustillants, puis les réserver en gardant la graisse rendue.",
+      "Cuire les spaghetti al dente. Conserver une tasse d’eau de cuisson avant égouttage.",
+      "Râper les trois quarts du fromage dans le bol de jaunes, et y incorporer une petite cuillère de graisse de cuisson.",
+      "Faire rapidement sauter les pâtes dans un peu de graisse de lardons. Retirer du feu, incorporer le mélange œuf-fromage et délayer peu à peu avec l’eau amidonnée jusqu’à obtenir une sauce crémeuse.",
+      "Ajouter un peu de piment d’Espelette et de poivre ; servir avec les lardons et le reste de fromage."
+    ],
+    "tip": "Ne pas surchauffer les jaunes : mélanger la sauce hors du feu et jouer sur l’eau de cuisson pour l’émulsion.",
+    "variants": [],
+    "source": {
+      "label": "750g — recette Bonne Pitance",
+      "url": "https://www.750g.com/decouvrez-la-recette-de-la-carbonara-basque-qui-va-plaire-meme-aux-italiens-a40794.htm"
+    },
+    "portionNote": "Proportions publiées pour quatre personnes. Les durées sont estimées ; la recette n’a pas été testée par l’utilisateur.",
+    "provenance": {
+      "creator": "Alexandre Czech (@bonnepitance)",
+      "origin": "Réseaux sociaux — recette relayée",
+      "checked": "2026-11-24",
+      "profile": "https://www.instagram.com/bonnepitance/"
+    },
+    "id": "055"
+  },
+  {
+    "title": "Poulet Gaston Gérard au comté, moutarde et paprika",
+    "category": "Volailles",
+    "cuisine": "Bourgogne",
+    "status": "À tester",
+    "base": 4,
+    "prep": "25 min (estimation)",
+    "cook": "45–55 min (estimation)",
+    "difficulty": "Moyen",
+    "equipment": [
+      "Cocotte",
+      "Plat au four",
+      "Râpe",
+      "Four"
+    ],
+    "ingredients": [
+      {
+        "name": "Poulet entier",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🍗"
+      },
+      {
+        "name": "Gros oignon blanc",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Paprika",
+        "qty": 2,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🌶️"
+      },
+      {
+        "name": "Comté",
+        "qty": 150,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🧀",
+        "step": 25
+      },
+      {
+        "name": "Crème fraîche épaisse",
+        "qty": 200,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🥛",
+        "step": 25
+      },
+      {
+        "name": "Moutarde à l’ancienne",
+        "qty": 2,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Vin blanc",
+        "qty": 15,
+        "unit": "cl",
+        "rule": "weight",
+        "emoji": "🍷",
+        "step": 5
+      },
+      {
+        "name": "Bouillon de volaille",
+        "qty": 50,
+        "unit": "cl",
+        "rule": "weight",
+        "emoji": "🥣",
+        "step": 5
+      },
+      {
+        "name": "Sel et poivre",
+        "rule": "taste",
+        "emoji": "🧂"
+      }
+    ],
+    "steps": [
+      "Découper le poulet en morceaux et le colorer dans une cocotte ; le transférer sur un plat.",
+      "Verser un peu de bouillon dans la cocotte pour dissoudre les sucs, puis ajouter l’oignon émincé et le paprika. Laisser revenir.",
+      "Replacer les morceaux de poulet dans la cocotte avec le reste du bouillon et cuire doucement environ quinze minutes à couvert.",
+      "Déposer ensuite le poulet dans un plat allant au four.",
+      "Mélanger dans la cocotte le vin blanc, la crème et la moutarde avec 100 g de comté râpé. Assaisonner en tenant compte du sel du bouillon.",
+      "Recouvrir les morceaux de sauce, puis répartir les 50 g de fromage restants. Enfourner à 180 °C pendant 25 à 30 minutes et vérifier la cuisson à cœur."
+    ],
+    "tip": "Pour la sécurité alimentaire, contrôler 74 °C à cœur sur la partie la plus épaisse du poulet.",
+    "variants": [],
+    "source": {
+      "label": "750g — recette relayée après vidéo Bonne Pitance",
+      "url": "https://www.750g.com/connaissez-vous-le-poulet-gaston-gerard-ce-plat-dijonnais-parfait-pour-la-rentree-a41608.htm"
+    },
+    "portionNote": "Le nombre de portions n’est pas précisé dans l’article ; base provisoire de 4, temps estimés.",
+    "provenance": {
+      "creator": "Alexandre Czech (@bonnepitance)",
+      "origin": "Réseaux sociaux — recette relayée",
+      "checked": "2026-11-24",
+      "profile": "https://www.instagram.com/bonnepitance/"
+    },
+    "id": "056"
+  },
+  {
+    "title": "Blanquette de Saint-Jacques aux poireaux",
+    "category": "Poissons et fruits de mer",
+    "cuisine": "Cuisine française",
+    "status": "À compléter",
+    "base": 4,
+    "prep": "25 min (estimation)",
+    "cook": "45–60 min + finition",
+    "difficulty": "Moyen",
+    "equipment": [
+      "Cocotte",
+      "Poêle",
+      "Casserole",
+      "Fouet"
+    ],
+    "ingredients": [
+      {
+        "name": "Noix de Saint-Jacques",
+        "qty": 20,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🐚"
+      },
+      {
+        "name": "Carottes",
+        "qty": 4,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🥕"
+      },
+      {
+        "name": "Poireaux",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🥬"
+      },
+      {
+        "name": "Champignons",
+        "qty": 300,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🍄",
+        "step": 25
+      },
+      {
+        "name": "Citron",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🍋"
+      },
+      {
+        "name": "Oignons",
+        "qty": 1.5,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Clous de girofle",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🌿"
+      },
+      {
+        "name": "Vin blanc sec",
+        "qty": 1,
+        "unit": "verre",
+        "rule": "whole",
+        "emoji": "🍷"
+      },
+      {
+        "name": "Beurre (saisie et roux)",
+        "rule": "unknown",
+        "emoji": "🧈"
+      },
+      {
+        "name": "Farine pour roux",
+        "rule": "unknown",
+        "emoji": "🌾"
+      },
+      {
+        "name": "Crème entière",
+        "rule": "unknown",
+        "emoji": "🥛"
+      },
+      {
+        "name": "Bouillon de légumes",
+        "rule": "unknown",
+        "emoji": "🥣"
+      },
+      {
+        "name": "Ciboulette et zeste de citron",
+        "rule": "taste",
+        "emoji": "🌿"
+      },
+      {
+        "name": "Sel et poivre",
+        "rule": "taste",
+        "emoji": "🧂"
+      },
+      {
+        "name": "Riz d’accompagnement (facultatif)",
+        "rule": "unknown",
+        "emoji": "🍚"
+      }
+    ],
+    "steps": [
+      "Saisir brièvement les Saint-Jacques dans le beurre chaud des deux côtés sans les cuire complètement. Les réserver.",
+      "Éplucher et couper carottes, poireaux et oignons. Les faire revenir dans les sucs ; couvrir à hauteur avec le bouillon de légumes.",
+      "Faire frémir la garniture de légumes 45 minutes à une heure à découvert ; faire sauter les champignons séparément au beurre.",
+      "Égoutter les légumes en récupérant le liquide de cuisson.",
+      "Cuire autant de farine que de beurre pour former un roux blanc, puis verser progressivement le bouillon tout en fouettant. Ajouter la crème jusqu’à consistance voulue.",
+      "Réunir dans cette sauce les légumes, les champignons et les Saint-Jacques pour terminer doucement leur cuisson juste avant le service. Rectifier avec vin blanc et jus de citron.",
+      "Dresser avec de la ciboulette, du zeste de citron et du riz si désiré."
+    ],
+    "tip": "Plusieurs quantités ne sont pas données par le créateur : beurre, farine, crème, bouillon. La fiche est conservée À compléter.",
+    "variants": [],
+    "source": {
+      "label": "Bonne Pitance — légende de publication reprise par TokRanks",
+      "url": "https://tokranks.com/creator/bonne_pitance"
+    },
+    "portionNote": "Environ quatre personnes selon la publication. Mesures du roux et de la crème à confirmer.",
+    "provenance": {
+      "creator": "Alexandre Czech (@bonnepitance)",
+      "origin": "Réseaux sociaux — légende publique",
+      "checked": "2026-11-24",
+      "profile": "https://www.instagram.com/bonnepitance/"
+    },
+    "id": "057"
+  },
+  {
+    "title": "Quiche au maroilles, lard fumé et miel",
+    "category": "Plats au four",
+    "cuisine": "Cuisine du Nord",
+    "status": "À tester",
+    "base": 6,
+    "prep": "35 min + repos de pâte (estimation)",
+    "cook": "45 min four + 30 min viande (estimation)",
+    "difficulty": "Moyen",
+    "equipment": [
+      "Moule à tarte",
+      "Saladier",
+      "Four",
+      "Poêle",
+      "Poids de cuisson"
+    ],
+    "ingredients": [
+      {
+        "name": "Farine (pâte)",
+        "qty": 400,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🌾",
+        "step": 25
+      },
+      {
+        "name": "Beurre (pâte)",
+        "qty": 130,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🧈",
+        "step": 10
+      },
+      {
+        "name": "Œuf pour la pâte",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🥚"
+      },
+      {
+        "name": "Sucre pour la pâte",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Liquide pour la pâte",
+        "qty": 10,
+        "unit": "cl",
+        "rule": "weight",
+        "emoji": "💧",
+        "step": 5
+      },
+      {
+        "name": "Poitrine fumée",
+        "qty": 300,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🥓",
+        "step": 25
+      },
+      {
+        "name": "Oignons",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Vin blanc pour déglacer",
+        "rule": "unknown",
+        "emoji": "🍷"
+      },
+      {
+        "name": "Crème liquide",
+        "qty": 20,
+        "unit": "cl",
+        "rule": "weight",
+        "emoji": "🥛",
+        "step": 5
+      },
+      {
+        "name": "Lait",
+        "qty": 20,
+        "unit": "cl",
+        "rule": "weight",
+        "emoji": "🥛",
+        "step": 5
+      },
+      {
+        "name": "Œufs pour l’appareil",
+        "qty": 4,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🥚"
+      },
+      {
+        "name": "Miel pour le fond",
+        "rule": "unknown",
+        "emoji": "🍯"
+      },
+      {
+        "name": "Maroilles AOP (un demi gros fromage + tranches de surface)",
+        "rule": "unknown",
+        "emoji": "🧀"
+      },
+      {
+        "name": "Sel, poivre et muscade",
+        "rule": "taste",
+        "emoji": "🧂"
+      }
+    ],
+    "steps": [
+      "Faire une pâte brisée en amalgamant farine, beurre froid, œuf, sucre et liquide. La laisser reposer au frais, idéalement jusqu’au lendemain.",
+      "Précuire la poitrine fumée une trentaine de minutes, la détailler en morceaux puis la faire revenir avec deux oignons émincés.",
+      "Déglacer les lardons et oignons avec un peu de vin blanc et laisser réduire.",
+      "Préchauffer le four à 180 °C ; foncer le moule et cuire la pâte à blanc environ quinze minutes.",
+      "Fouetter quatre œufs, le lait et la crème ; assaisonner légèrement et ajouter la muscade.",
+      "Étaler une fine couche de miel sur la pâte, ajouter les lardons et oignons, puis de petits cubes de maroilles.",
+      "Verser l’appareil et finir avec de fines tranches de fromage. Cuire au four à 180 °C au moins trente minutes, selon la profondeur du moule."
+    ],
+    "tip": "Le poids du maroilles, la quantité de miel et celle de vin ne sont pas fournis. Vérifier que le centre de la quiche est pris et prolonger si moule profond.",
+    "variants": [],
+    "source": {
+      "label": "Bonne Pitance — légende Instagram reproduite par Pikory",
+      "url": "https://pikory.com/tag/tarte-au-maroilles-recette"
+    },
+    "portionNote": "Nombre de parts non renseigné, base provisoire de six personnes. Certaines quantités restent inconnues.",
+    "provenance": {
+      "creator": "Alexandre Czech (@bonnepitance)",
+      "origin": "Réseaux sociaux — légende publique",
+      "checked": "2026-11-24",
+      "profile": "https://www.instagram.com/bonnepitance/"
+    },
+    "id": "058"
+  },
+  {
+    "title": "Joues de bœuf confites au fumoir et mayonnaise wasabi",
+    "category": "Barbecue",
+    "cuisine": "Barbecue fumé",
+    "status": "À compléter",
+    "base": 4,
+    "prep": "15 min + allumage du kamado (estimation)",
+    "cook": "Environ 6 h",
+    "difficulty": "Avancé",
+    "equipment": [
+      "Kamado/fumoir",
+      "Thermomètre",
+      "Plat haute température",
+      "Gants thermiques"
+    ],
+    "ingredients": [
+      {
+        "name": "Joues de bœuf",
+        "rule": "unknown",
+        "emoji": "🥩"
+      },
+      {
+        "name": "Sel",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🧂"
+      },
+      {
+        "name": "Vergeoise ou cassonade",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🍬"
+      },
+      {
+        "name": "Poivre fraîchement moulu",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🧂"
+      },
+      {
+        "name": "Ail en poudre",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🧄"
+      },
+      {
+        "name": "Graisse de bœuf pour confire",
+        "rule": "unknown",
+        "emoji": "🫙"
+      },
+      {
+        "name": "Bois de fumage",
+        "rule": "unknown",
+        "emoji": "🪵"
+      },
+      {
+        "name": "Pain à sandwich (facultatif)",
+        "rule": "unknown",
+        "emoji": "🥖"
+      },
+      {
+        "name": "Mayonnaise au wasabi (facultatif)",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Pickles (facultatif)",
+        "rule": "unknown",
+        "emoji": "🥒"
+      }
+    ],
+    "steps": [
+      "Assembler un rub avec une cuillère à café de sel, de vergeoise, de poivre et d’ail en poudre. Frotter les joues de bœuf sur toutes les faces.",
+      "Stabiliser le kamado ou fumoir vers 110 °C, ajouter un morceau de bois de fumage et laisser les joues fumer environ quatre heures.",
+      "Transférer les joues dans un récipient compatible contenant la graisse de bœuf fondue ; prolonger environ deux heures avec le kamado vers 140 °C.",
+      "Lorsque les joues sont très tendres, les effilocher puis les servir dans un sandwich avec mayonnaise au wasabi et pickles."
+    ],
+    "tip": "Le poids de viande et de graisse n’est pas publié ; vérifier le volume du plat et faire attention à la graisse chaude.",
+    "variants": [],
+    "source": {
+      "label": "Bonne Pitance — légende Instagram reprise par Pictame",
+      "url": "https://pictame.com/en/discover/hashtag/recette-joue-de-boeuf-philippe-etchebest"
+    },
+    "portionNote": "Base provisoire 4 personnes, quantités de viande et graisse non connues. Recette inspirée selon l’auteur par @melt_slow_smoked_barbecue.",
+    "provenance": {
+      "creator": "Alexandre Czech (@bonnepitance)",
+      "origin": "Réseaux sociaux — légende publique",
+      "checked": "2026-11-24",
+      "profile": "https://www.instagram.com/bonnepitance/"
+    },
+    "id": "059"
+  },
+  {
+    "title": "Curry de cochon à l’échine et au lait de coco",
+    "category": "Plats mijotés",
+    "cuisine": "Curry fusion",
+    "status": "À tester",
+    "base": 4,
+    "prep": "30 min",
+    "cook": "40 min",
+    "difficulty": "Facile",
+    "equipment": [
+      "Sauteuse",
+      "Grande casserole",
+      "Mixeur plongeant",
+      "Casserole à riz"
+    ],
+    "ingredients": [
+      {
+        "name": "Oignons",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Échalotes",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Échine de porc",
+        "qty": 1000,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🥩",
+        "step": 50
+      },
+      {
+        "name": "Beurre",
+        "qty": 50,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🧈",
+        "step": 5
+      },
+      {
+        "name": "Pâte de curry jaune",
+        "qty": 2,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🍛"
+      },
+      {
+        "name": "Vin blanc",
+        "qty": 1,
+        "unit": "verre",
+        "rule": "whole",
+        "emoji": "🍷"
+      },
+      {
+        "name": "Lait de coco",
+        "qty": 1,
+        "unit": "boîte",
+        "rule": "whole",
+        "emoji": "🥥"
+      },
+      {
+        "name": "Pulpe de tomates",
+        "qty": 2,
+        "unit": "boîtes",
+        "rule": "whole",
+        "emoji": "🍅"
+      },
+      {
+        "name": "Concentré de tomate",
+        "qty": 1,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🍅"
+      },
+      {
+        "name": "Riz",
+        "qty": 400,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🍚",
+        "step": 25
+      },
+      {
+        "name": "Sel et poivre",
+        "rule": "taste",
+        "emoji": "🧂"
+      },
+      {
+        "name": "Persil plat",
+        "rule": "taste",
+        "emoji": "🌿"
+      }
+    ],
+    "steps": [
+      "Émincer les oignons et les échalotes puis tailler l’échine en gros dés.",
+      "Faire fondre environ 15 g de beurre ; y attendrir les aromates avec une cuillère de pâte de curry pendant cinq minutes. Verser le vin blanc et laisser réduire environ dix minutes. Mettre ce mélange de côté.",
+      "Dans la même sauteuse, faire colorer le porc avec environ 20 g de beurre et le reste de la pâte de curry. Réserver les cubes de viande.",
+      "Réunir dans une casserole le mélange d’aromates, le lait de coco, la pulpe et le concentré de tomate. Laisser frémir quelques minutes, puis mixer la sauce pour la lisser.",
+      "Ajouter le porc et le beurre restant, saler et poivrer. Laisser cuire doucement jusqu’à ce que les morceaux soient bien cuits et tendres.",
+      "Faire cuire le riz à part et servir avec le curry, parsemé de persil."
+    ],
+    "tip": "Les tailles de boîtes et du verre ne sont pas précisées dans l’extrait. Les 40 minutes annoncées sont un repère ; vérifier la cuisson et la tendreté de l’échine avant service.",
+    "variants": [],
+    "source": {
+      "label": "Version Femina — extrait du livre Bonne Pitance",
+      "url": "https://femina.paris-normandie.fr/recette/curry-de-cochon"
+    },
+    "portionNote": "Extrait public de l’ouvrage Bonne Pitance (Solar, 2025). Base de 4 personnes provisoire : nombre de portions non indiqué dans la publication.",
+    "provenance": {
+      "creator": "Alexandre Czech (@bonnepitance)",
+      "origin": "Livre — extrait publié",
+      "checked": "2026-11-24",
+      "book": {
+        "title": "Bonne Pitance — Le guide du boucher cuisinier",
+        "isbn": "9782263189272",
+        "author": "Alexandre Czech",
+        "publisher": "Solar",
+        "published": "2025-09-25",
+        "url": "https://www.lisez.com/livres/bonne-pitance/9782263189272"
+      }
+    },
+    "id": "060"
+  },
+  {
+    "title": "Paupiette de cuisse de poulet désossée au chou et au lard",
+    "category": "Volailles",
+    "cuisine": "Cuisine française",
+    "status": "À tester",
+    "base": 1,
+    "prep": "30 min",
+    "cook": "40 min",
+    "difficulty": "Moyen",
+    "equipment": [
+      "Cocotte",
+      "Ficelle alimentaire",
+      "Couteau de désossage",
+      "Thermomètre de cuisine"
+    ],
+    "ingredients": [
+      {
+        "name": "Belle cuisse de poulet",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "🍗",
+        "emoji": "whole"
+      },
+      {
+        "name": "Grandes feuilles de chou frisé",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "🥬",
+        "emoji": "whole"
+      },
+      {
+        "name": "Chair à saucisse",
+        "qty": 100,
+        "unit": "g",
+        "rule": "🥩",
+        "emoji": "weight",
+        "step": 25
+      },
+      {
+        "name": "Crépine",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "🥩",
+        "emoji": "whole"
+      },
+      {
+        "name": "Tranches de lard",
+        "qty": 2,
+        "unit": "tranches",
+        "rule": "🥓",
+        "emoji": "whole"
+      },
+      {
+        "name": "Beurre",
+        "qty": 1,
+        "unit": "noix",
+        "rule": "🧈",
+        "emoji": "whole"
+      },
+      {
+        "name": "Vin blanc sec",
+        "qty": 0.5,
+        "unit": "verre",
+        "rule": "🍷",
+        "emoji": "half"
+      },
+      {
+        "name": "Bouillon de volaille",
+        "qty": 1,
+        "unit": "verre",
+        "rule": "🥣",
+        "emoji": "whole"
+      },
+      {
+        "name": "Sel et poivre",
+        "rule": "taste",
+        "emoji": "🧂"
+      },
+      {
+        "name": "Brin de thym",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "🌿",
+        "emoji": "whole"
+      }
+    ],
+    "steps": [
+      "Désosser la cuisse de poulet en gardant la peau autant que possible.",
+      "Plonger les feuilles de chou environ cinq minutes dans l’eau bouillante salée, enlever leur nervure trop épaisse puis les égoutter soigneusement.",
+      "Placer la chair à saucisse au milieu de la cuisse désossée et la replier pour former un petit rôti.",
+      "Envelopper la paupiette dans le chou, puis dans la crépine. Recouvrir de lard et ficeler sans écraser.",
+      "Faire dorer doucement dans une cocotte avec une noix de beurre ; mouiller avec le vin blanc et le bouillon.",
+      "Finir la cuisson environ 35 minutes à feu modéré, avec le couvercle légèrement entrouvert. Vérifier 74 °C à cœur de la farce de volaille et de porc, puis parsemer de thym."
+    ],
+    "tip": "Une vraie crépine est fragile : la manipuler délicatement et garder la farce au froid jusqu’à cuisson. Le format publié correspond à une grosse portion.",
+    "variants": [],
+    "source": {
+      "label": "Version Femina — extrait du livre Bonne Pitance",
+      "url": "https://femina.paris-normandie.fr/recette/paupiette-de-cuisse-de-poulet-desossee"
+    },
+    "portionNote": "Extrait public de l’ouvrage Bonne Pitance (Solar, 2025). Proportions originales pour une cuisse ; base fixée à 1.",
+    "provenance": {
+      "creator": "Alexandre Czech (@bonnepitance)",
+      "origin": "Livre — extrait publié",
+      "checked": "2026-11-24",
+      "book": {
+        "title": "Bonne Pitance — Le guide du boucher cuisinier",
+        "isbn": "9782263189272",
+        "author": "Alexandre Czech",
+        "publisher": "Solar",
+        "published": "2025-09-25",
+        "url": "https://www.lisez.com/livres/bonne-pitance/9782263189272"
+      }
+    },
+    "id": "061"
+  },
+  {
+    "title": "Tournedos de canard aux figues séchées",
+    "category": "Viandes",
+    "cuisine": "Cuisine française",
+    "status": "À tester",
+    "base": 4,
+    "prep": "30 min + 2 h au frais",
+    "cook": "12 min",
+    "difficulty": "Moyen",
+    "equipment": [
+      "Ficelle alimentaire",
+      "Poêle",
+      "Four",
+      "Papier cuisson"
+    ],
+    "ingredients": [
+      {
+        "name": "Magrets de canard avec peau",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🦆"
+      },
+      {
+        "name": "Figues séchées",
+        "qty": 10,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🍈"
+      },
+      {
+        "name": "Graisse de canard pour la poêle",
+        "rule": "unknown",
+        "emoji": "🫙"
+      },
+      {
+        "name": "Thym",
+        "rule": "taste",
+        "emoji": "🌿"
+      },
+      {
+        "name": "Sel et poivre",
+        "rule": "taste",
+        "emoji": "🧂"
+      }
+    ],
+    "steps": [
+      "Décoller soigneusement la peau des deux magrets. L’aplatir délicatement entre deux feuilles de papier cuisson.",
+      "Assaisonner la viande, puis déposer un magret sur sa peau et répartir les figues séchées coupées en deux.",
+      "Poser le second magret dessus, refermer avec la deuxième peau et ficeler l’ensemble en rôti bien ferme.",
+      "Placer au réfrigérateur deux heures pour qu’il se tienne bien, puis tailler des tournedos épais.",
+      "Préchauffer le four à 180 °C. Faire saisir les tranches environ deux minutes de chaque côté dans un peu de graisse de canard.",
+      "Terminer au four environ huit minutes selon l’épaisseur et la cuisson souhaitée. Laisser reposer avant de servir avec du thym."
+    ],
+    "tip": "Sortir la viande juste pour la trancher et garder la chaîne du froid pendant le repos de deux heures. Les cuissons varient selon l’épaisseur des tournedos.",
+    "variants": [],
+    "source": {
+      "label": "Version Femina — extrait du livre Bonne Pitance",
+      "url": "https://femina.paris-normandie.fr/recette/tournedos-de-canard-aux-figues"
+    },
+    "portionNote": "Extrait public de l’ouvrage Bonne Pitance (Solar, 2025). Nombre de portions non précisé : base provisoire de 4, à confirmer.",
+    "provenance": {
+      "creator": "Alexandre Czech (@bonnepitance)",
+      "origin": "Livre — extrait publié",
+      "checked": "2026-11-24",
+      "book": {
+        "title": "Bonne Pitance — Le guide du boucher cuisinier",
+        "isbn": "9782263189272",
+        "author": "Alexandre Czech",
+        "publisher": "Solar",
+        "published": "2025-09-25",
+        "url": "https://www.lisez.com/livres/bonne-pitance/9782263189272"
+      }
+    },
+    "id": "062"
   }
 ]
