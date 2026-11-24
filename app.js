@@ -12,7 +12,8 @@ const norm=s=>String(s??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLo
 const number=x=>Number(x).toLocaleString('fr-FR',{maximumFractionDigits:2});
 function fraction(x){const whole=Math.floor(x);return x%1===.5?(whole?whole+' et ½':'½'):number(x)}
 function amount(i,n,b=2){
- if(i.rule==='unknown')return 'Non précisée';\n if(i.rule==='taste'||i.qty==null)return 'Selon le goût';
+ if(i.rule==='unknown')return 'Non précisée';
+ if(i.rule==='taste'||i.qty==null)return 'Selon le goût';
  const raw=Number(i.qty)*n/b;
  let value=raw;
  if(i.rule==='half')value=Math.max(.5,Math.round(raw*2)/2);
