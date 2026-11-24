@@ -91,15 +91,13 @@
       }
     ],
     "photo": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Petit%20sal%C3%A9%20aux%20lentilles.jpg?width=1000",
-      "page": "https://commons.wikimedia.org/wiki/File:Petit%20sal%C3%A9%20aux%20lentilles.jpg",
-      "author": "Thomon",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "illustrative": true,
+      "src": "./images/001.webp",
+      "generated": true,
       "featured": true,
+      "style": "rustique-réaliste",
       "heroPosition": "center center",
-      "cardPosition": "center center"
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Petit salé aux lentilles du Berry"
     }
   },
   {
@@ -221,15 +219,13 @@
     },
     "portionNote": "La source donne les pesées pour 400 g de bœuf, sans préciser le nombre de parts. Affichage de référence pour 2 personnes par hypothèse, à ajuster après essai. Quantités d’oignons, d’huile et de fécule absentes de la description.",
     "photo": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ginger%20and%20Onion%20Beef%20%E8%96%91%E8%94%A5%E7%89%9B%E8%82%89%20(Golden%20Dynasty%20Chinese%20Restaurant).jpg?width=1000",
-      "page": "https://commons.wikimedia.org/wiki/File:Ginger%20and%20Onion%20Beef%20%E8%96%91%E8%94%A5%E7%89%9B%E8%82%89%20(Golden%20Dynasty%20Chinese%20Restaurant).jpg",
-      "author": "NeoBatfreak",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "illustrative": true,
+      "src": "./images/002.webp",
+      "generated": true,
       "featured": true,
+      "style": "rustique-réaliste",
       "heroPosition": "center center",
-      "cardPosition": "center center"
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Bœuf aux oignons — deux cuissons"
     }
   },
   {
@@ -329,15 +325,13 @@
     },
     "portionNote": "La source précise 3 à 4 personnes. Référence de calcul choisie : 4 personnes (80 g de spaghetti secs par personne). Les ajouts d’eau, la taille de la poêle et la durée de cuisson doivent être ajustés selon la quantité.",
     "photo": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Spaghetti%20all%E2%80%99assassina%2C%20Bari.jpg?width=1000",
-      "page": "https://commons.wikimedia.org/wiki/File:Spaghetti%20all%E2%80%99assassina%2C%20Bari.jpg",
-      "author": "ScotInPuglia",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "illustrative": true,
+      "src": "./images/003.webp",
+      "generated": true,
       "featured": true,
+      "style": "rustique-réaliste",
       "heroPosition": "center center",
-      "cardPosition": "center center"
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Spaghetti all’assassina"
     }
   },
   {
@@ -476,15 +470,13 @@
     },
     "portionNote": "La description donne 2 pitas (4 demi-pitas) et 250 g de bœuf, sans indiquer explicitement le nombre de convives. Base de 2 personnes estimée. La viande hachée doit être entièrement cuite.",
     "photo": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Arayes%20(1).jpg?width=1000",
-      "page": "https://commons.wikimedia.org/wiki/File:Arayes%20(1).jpg",
-      "author": "Laliv g",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "illustrative": true,
+      "src": "./images/004.webp",
+      "generated": true,
       "featured": true,
+      "style": "rustique-réaliste",
       "heroPosition": "center center",
-      "cardPosition": "center center"
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Arayes croustillants au bœuf et à la feta"
     }
   },
   {
