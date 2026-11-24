@@ -887,5 +887,2358 @@
       "url": "https://www.tiktok.com/@_/video/7554828549727784214"
     },
     "portionNote": "Le nombre de parts n’est pas indiqué. Base de 4 parts estimée pour la tourte entière, à ajuster après essai. Quantités de lard, de moutarde et de dorure absentes de la source."
+  },
+  {
+    "id": "008",
+    "title": "Mac’n’cheese au Beaufort",
+    "category": "Pâtes et nouilles",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Macaronis",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Beaufort",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Poitrine fumée",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Moutarde",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sirop d’érable",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Paprika fumé",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Piment d’Espelette",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Poivre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La description explique une cuisson de poitrine fumée badigeonnée au four à 200 °C, 15 minutes de chaque côté. Les autres étapes restent à reporter."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @bonne_pitance",
+      "url": "https://www.tiktok.com/@_/video/7637540118655552790"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "009",
+    "title": "Nouilles sautées au poulet (Pad See Ew)",
+    "category": "Pâtes et nouilles",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Nouilles de riz",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Cuisse de poulet",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Brocolini",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Œufs",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sauce soja",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sauce huître",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sucre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Citron vert",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La description donne les ingrédients et les pesées, mais pas la méthode détaillée."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @whoogys",
+      "url": "https://www.tiktok.com/@_/video/7617011238807063830"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "010",
+    "title": "Shawarma de poulet à l’ail confit",
+    "category": "Street food",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Cuisses de poulet",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Yaourt",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Huile d’olive",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Citron",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Ail fumé",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Concentré de tomate",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Épices shawarma",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Eau",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Fécule de maïs",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Yaourt grec",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Oignon rouge",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Vinaigre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sucre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Poivre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Laurier",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La source indique 1 h 15 au four à 200 °C pour le shawarma et 40 minutes pour l’ail ; les ingrédients des marinades, de la sauce et des pickles sont précisés."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @lesgourmandisesdeloubna",
+      "url": "https://www.tiktok.com/@_/video/7608906113584614689"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "011",
+    "title": "Jalapeños farcis au cheddar",
+    "category": "Apéritifs",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Jalapeños",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Vache qui rit ou Philadelphia",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Cheddar râpé",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Échalote",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Ciboulette",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Crème fraîche",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Miel",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Épices Tajín",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sauce soja",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Vinaigre de riz",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Panure panko",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Farine",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Huile de friture",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "Blanchir les jalapeños 4 minutes, préparer la farce au fromage, les farcir et paner. La recette détaille également un miel épicé."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @zachary_masterchef",
+      "url": "https://www.tiktok.com/@_/video/7623821874807590166"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "012",
+    "title": "Burger smash rösti",
+    "category": "Burgers et sandwiches",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Pain burger",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sauce au poivre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Steaks hachés",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Cheddar",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Pickles d’oignons rouges",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Rösti",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La description ne fournit qu’une liste de composants. Montage et quantités à vérifier sur la vidéo."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @cosma_sur_tiktok",
+      "url": "https://www.tiktok.com/@_/video/7623451902117809430"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "013",
+    "title": "Sandwich merguez-frites revisité",
+    "category": "Burgers et sandwiches",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Merguez",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Pommes de terre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Pain à sandwich",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La description présente un sandwich croustillant merguez-frites, mais ne donne ni quantités ni méthode."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @zachary_masterchef",
+      "url": "https://www.tiktok.com/@_/video/7602312364855135511"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "014",
+    "title": "Sandwich au confit de canard",
+    "category": "Burgers et sandwiches",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Baguette tradition",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Graisse de canard",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Ketchup mangue-passion",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Confit de canard",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Cantal",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Noix de cajou",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Mâche",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Persil",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Pickles de graines de moutarde",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La source présente les éléments du sandwich. Les recettes des condiments et le montage détaillé sont à compléter."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @cosma_sur_tiktok",
+      "url": "https://www.tiktok.com/@_/video/7611228173824478486"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "015",
+    "title": "Pâté aux pommes de terre",
+    "category": "Plats au four",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Pâte feuilletée",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Jaune d’œuf",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Pommes de terre à chair ferme",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Crème fraîche épaisse",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Oignons",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Ail",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Persil plat",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sel",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Poivre noir",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "Les pesées de la garniture et de la pâte sont dans la description, mais pas les temps de cuisson."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @whoogys",
+      "url": "https://www.tiktok.com/@_/video/7609975362046545174"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "016",
+    "title": "Braciole farcies en sauce tomate",
+    "category": "Plats mijotés",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Bavette de bœuf",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Lardons",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Persil",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Ail",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Oignon",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Pecorino",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Piment d’Espelette",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Purée de tomates",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Basilic",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Céleri",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Carotte",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Laurier",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Vin blanc",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Huile de tournesol",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Farine",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Semoule",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Eau",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La source propose les braciole, leur sauce tomate et des pâtes maison avec une liste d’ingrédients détaillée."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @mamyetjordan_",
+      "url": "https://www.tiktok.com/@_/video/7619246400764710166"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "017",
+    "title": "Hachis parmentier maison",
+    "category": "Plats au four",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Pommes de terre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Beurre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Lait",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Crème épaisse",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Viande hachée",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Oignon",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Ail",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Huile d’olive",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Fromage râpé",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Carottes",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Thym",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sel",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Poivre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Muscade",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La description donne les pesées, mais pas le déroulé de la cuisson."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @norberttarayre.off",
+      "url": "https://www.tiktok.com/@_/video/7604762745589746977"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "018",
+    "title": "Tartare de bavette snacké",
+    "category": "Viandes",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Bavette de bœuf",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Échalote",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Cornichons",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Câpres",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Persil",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Radis roses",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Jaunes d’œufs",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Moutarde à l’ancienne",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Moutarde forte",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sauce Worcestershire",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Tabasco",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Huile d’olive",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Fleur de sel",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Poivre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La source précise les ingrédients pour quatre tartares et suggère de snacker brièvement la bavette avant de la découper."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @chesterfoodies",
+      "url": "https://www.tiktok.com/@_/video/7608984229891853590"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "019",
+    "title": "Brownies millionnaires",
+    "category": "Desserts",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Chocolat noir",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Beurre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sucre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Vergeoise",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Œufs",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Farine",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Cacao en poudre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sel",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Miel",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Lait concentré sucré",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Vanille",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Fleur de sel",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La description détaille trois préparations : brownie, caramel tendre à la vanille et coque chocolat. Pesées et méthode à mettre en fiche structurée."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @_gallymini_",
+      "url": "https://www.tiktok.com/@_/video/7616788197384949015"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "020",
+    "title": "Pommes boulangères",
+    "category": "Accompagnements",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Pommes de terre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Oignons",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Beurre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Bouillon de bœuf",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Huile d’olive",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Thym frais",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sel",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Poivre noir",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La liste des ingrédients et les pesées sont disponibles ; la cuisson détaillée est à vérifier."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @whoogys",
+      "url": "https://www.tiktok.com/@_/video/7617570310862245142"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "021",
+    "title": "Pancakes chocolat-Nutella",
+    "category": "Desserts",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Chocolat",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Nutella",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "Le créateur renvoie vers une recette sur son site ; la description TikTok ne contient pas les pesées."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @archersfood",
+      "url": "https://www.tiktok.com/@_/video/7609043578295192854"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "022",
+    "title": "Shio pan — petits pains japonais au sel",
+    "category": "Pains et boulangerie",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Farine de blé",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Eau",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sucre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Lait en poudre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Beurre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sel",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Levure boulangère déshydratée",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La description donne les pesées et la cuisson à 200 °C chaleur tournante ou 210 °C selon le four."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @auborddelassiette",
+      "url": "https://www.tiktok.com/@_/video/7612241839613136150"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "023",
+    "title": "Cookie pie au Nutella",
+    "category": "Desserts",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Nutella",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La description comporte un déroulé complet à transformer en fiche ; les quantités doivent être relevées."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @cookwithshaaa",
+      "url": "https://www.tiktok.com/@_/video/7604232651427351830"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "024",
+    "title": "Ramen au canard",
+    "category": "Soupes et bouillons",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Canard",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Nouilles ramen",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La description confirme le thème de la recette, mais reste insuffisante pour les ingrédients complets et les cuissons."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @qistoh",
+      "url": "https://www.tiktok.com/@_/video/7602300879756086550"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "025",
+    "title": "New York rolls au chocolat",
+    "category": "Pains et boulangerie",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Pâte feuilletée",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Chocolat",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La recette de la garniture et du feuilletage est à relever dans la description et la vidéo."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @on_est_gourmands",
+      "url": "https://www.tiktok.com/@_/video/7595970625513049366"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "026",
+    "title": "Magret de canard séché",
+    "category": "Charcuterie maison",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Magret de canard",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sel",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "Le procédé et les durées de salage et de séchage sont à confirmer avant toute reproduction."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @qistoh",
+      "url": "https://www.tiktok.com/@_/video/7594505987671788822"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "027",
+    "title": "Soupe phở",
+    "category": "Soupes et bouillons",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Bouillon",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Nouilles de riz",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Épices et garnitures non précisées",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La source présente une soupe phở, sans proportions complètes."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @qistoh",
+      "url": "https://www.tiktok.com/@_/video/7591909200398175510"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "028",
+    "title": "Burritos au confit de canard",
+    "category": "Street food",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Confit de canard",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Poireaux",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Oignon",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Beurre ou huile d’olive",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Paprika fumé",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Piment d’Espelette",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Concentré de tomate",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Vin blanc",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Haricots",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Graisse de canard",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Farine",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sel",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La source explique la préparation des poireaux, des haricots, des cuisses confites (2 h à 150 °C couvertes) et des wraps maison."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @bonne_pitance",
+      "url": "https://www.tiktok.com/@_/video/7579215352316333334"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "029",
+    "title": "Cassoulet maison",
+    "category": "Plats mijotés",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Ingrédients non indiqués dans la description",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La source présente un cassoulet sans les ingrédients ni la méthode : fiche à reconstituer depuis la vidéo."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @le.grand.gaulois",
+      "url": "https://www.tiktok.com/@_/video/7576708068008856854"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "030",
+    "title": "Nouilles au poivre de Sichuan",
+    "category": "Pâtes et nouilles",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Poivre de Sichuan",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Ciboule",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Ail",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Gingembre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Cacahuètes",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Tahini",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Vinaigre noir ou vinaigre de riz",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sauce soja",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sauce soja foncée",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sucre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Chili oil",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Porc ou bœuf ou veau haché",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Moutarde fermentée",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Nouilles",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "Les pesées des ingrédients figurent dans la description ; assemblage et cuisson à compléter."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @whoogys",
+      "url": "https://www.tiktok.com/@_/video/7568247158416166166"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "031",
+    "title": "Birria pasta",
+    "category": "Pâtes et nouilles",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Bœuf à braiser",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sel",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Poivre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Oignons",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Ail",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Tomates cerises",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Concentré de tomate",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Bouillon de bœuf",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Piments guajillo et ancho",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Laurier",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Cannelle",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Coriandre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Cumin",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Origan",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Pâtes",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Parmesan",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Coriandre fraîche",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La source détaille la viande braisée et les assaisonnements ; certaines mesures sont explicitement données comme approximatives."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @jujumaoo",
+      "url": "https://www.tiktok.com/@_/video/7562534503437192469"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "032",
+    "title": "Carbonade flamande à la Chimay",
+    "category": "Plats mijotés",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Joue de bœuf",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Lard",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Oignons",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Échalotes",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Ail",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Céleri",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Bière brune Chimay Bleue",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Bouillon de légumes",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Saindoux",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Pain d’épice",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Moutarde à l’ancienne",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Moutarde",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Vinaigre de houblon",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "Astuce mentionnée : tartiner le pain d’épice de moutarde avant de l’ajouter à la sauce. Cuisson et proportions à compléter."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @chesterfoodies",
+      "url": "https://www.tiktok.com/@_/video/7562213666494500118"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "033",
+    "title": "Kebab maison avec pain pita et sauce blanche",
+    "category": "Street food",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Farine",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sel",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sucre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Levure sèche",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Yaourt",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Eau",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Huile d’olive",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Filets de volaille",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Filets de veau",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Gingembre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Paprika",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Cumin",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Ail semoule",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Coriandre moulue",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Cannelle",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Piment",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Mayonnaise",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Menthe",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Citron",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Ail",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La description donne séparément les pesées de la pita, de la viande et de la sauce blanche."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @norberttarayre.off",
+      "url": "https://www.tiktok.com/@_/video/7562235789225004310"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "034",
+    "title": "Pâte aux carottes multifonction",
+    "category": "Pains et boulangerie",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Carottes cuites à la vapeur",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Farine",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sel",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Épices au choix",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La source indique 1 kg de carottes cuites, 600 g de farine et 10 g de sel. Mixer, pétrir et utiliser en gnocchis, wraps, chaussons ou pâtes."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @paul.napo.mange",
+      "url": "https://www.tiktok.com/@_/video/7556998022903762198"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "035",
+    "title": "Jerk chicken jamaïcain",
+    "category": "Viandes",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Poulet",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Oignon",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Ail",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Piment",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Haricots rouges",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Thym",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Vinaigre de cidre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Gingembre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Lait de coco",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Riz",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sucre roux",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sauce soja",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Huile",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Muscade",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Citron",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sel",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Poivre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La description fournit la liste des ingrédients sans les proportions ni la méthode."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @dricecook",
+      "url": "https://www.tiktok.com/@_/video/7551904905804418326"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "036",
+    "title": "Harira marocaine à l’agneau",
+    "category": "Soupes et bouillons",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Épaule d’agneau",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Huile",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Oignon",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Ail",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Concentré de tomate",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Gingembre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Curcuma",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Cannelle",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Cumin",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Pois chiches",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Lentilles brunes",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Bouillon de bœuf",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Tomates concassées",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Céleri",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Coriandre fraîche",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Persil",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Farine",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Vermicelles",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sel",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Poivre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La description donne les ingrédients et les étapes en anglais, avec des quantités présentées par le créateur comme des estimations."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @jujumaoo",
+      "url": "https://www.tiktok.com/@_/video/7554727923769429255"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "037",
+    "title": "Curry mee malaisien",
+    "category": "Soupes et bouillons",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Huile",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Oignons",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Ail",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Gingembre",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Citronnelle",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Pâte de curry rouge",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Hauts de cuisse de poulet",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Poudre de curry",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Curcuma",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Lait de coco",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Bouillon de poulet",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Sauce poisson",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Nouilles aux œufs ou udon",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Coriandre fraîche",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Citron vert",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La description contient les pesées et les étapes de la soupe aux nouilles malaisienne."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @paul.napo.mange",
+      "url": "https://www.tiktok.com/@_/video/7552924318619995414"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "038",
+    "title": "Pâte à tartiner façon Kinder Bueno",
+    "category": "Desserts",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [],
+    "steps": [
+      "La vidéo annonce une pâte à tartiner inspirée du goût Kinder Bueno, sans ingrédients détaillés dans la description."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @edouardcuisine",
+      "url": "https://www.tiktok.com/@_/video/7415526930235116832"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "039",
+    "title": "Poulet rôti du dimanche à basse température",
+    "category": "Viandes",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Poulet entier",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La source préconise de démarrer à 140 °C et de compter environ 30 à 35 minutes par 500 g (exemple de 2 kg pour environ 2 h 15). Vérifier la cuisson à cœur."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @bonne_pitance",
+      "url": "https://www.tiktok.com/@_/video/7362148010555362593"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "040",
+    "title": "Joue de bœuf braisée",
+    "category": "Plats mijotés",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Joue de bœuf",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La description se limite au titre ; ingrédients et cuisson à relever sur la vidéo."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @diegoalary",
+      "url": "https://www.tiktok.com/@_/video/7341858858631056672"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "041",
+    "title": "Poulet farci au chorizo et à la mozzarella",
+    "category": "Viandes",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Poulet",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Chorizo",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Mozzarella",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "Ingrédients complémentaires et étapes à relever sur la vidéo."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @timerfood",
+      "url": "https://www.tiktok.com/@_/video/7362204983795780896"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "042",
+    "title": "Hydromel maison",
+    "category": "Boissons",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Miel",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Eau",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Levures non précisées",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La description ne contient ni dosages ni procédure de fermentation. Ne pas reproduire sans protocole documenté."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @auborddelassiette",
+      "url": "https://www.tiktok.com/@_/video/7341809139217222945"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "043",
+    "title": "Birria tacos",
+    "category": "Street food",
+    "cuisine": "À préciser",
+    "status": "À compléter",
+    "base": 2,
+    "prep": "Non précisé",
+    "cook": "Non précisé",
+    "difficulty": "À préciser",
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Bœuf",
+        "rule": "unknown",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Tortillas",
+        "rule": "unknown",
+        "emoji": "🥄"
+      }
+    ],
+    "steps": [
+      "La description ne contient que le titre et des hashtags ; recette à documenter depuis la vidéo."
+    ],
+    "tip": "Fiche de collecte : liste d’ingrédients issue de la description TikTok, quantités à reporter ou à confirmer. Ne pas cuisiner sur cette seule base lorsqu’une durée ou un geste essentiel manque.",
+    "variants": [],
+    "source": {
+      "label": "TikTok — @notorious_foodie",
+      "url": "https://www.tiktok.com/@_/video/7355174381074615584"
+    },
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
   }
 ]
