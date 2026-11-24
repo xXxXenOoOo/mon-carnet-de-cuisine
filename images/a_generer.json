@@ -1,8 +1,8 @@
 {
   "description": "Images IA à produire lors de la prochaine édition ; liste mise à jour automatiquement lors des changements de recettes.",
   "total_recettes": 62,
-  "images_realisees": 9,
-  "images_a_realiser": 53,
+  "images_realisees": 10,
+  "images_a_realiser": 52,
   "recettes": [
     {
       "id": "044",
@@ -156,15 +156,6 @@
       "source_incomplete": false,
       "fichier_attendu": "images/062.webp",
       "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Tournedos de canard aux figues séchées. Ingrédients mentionnés dans la fiche : Magrets de canard avec peau, Figues séchées, Graisse de canard pour la poêle, Thym, Sel et poivre. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
-    },
-    {
-      "id": "010",
-      "titre": "Shawarma de poulet à l’ail confit",
-      "categorie": "Street food",
-      "priorite": "normale",
-      "source_incomplete": true,
-      "fichier_attendu": "images/010.webp",
-      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Shawarma de poulet à l’ail confit. Ingrédients mentionnés dans la fiche : Cuisses de poulet, Yaourt, Huile d’olive, Citron, Ail fumé, Concentré de tomate, Épices shawarma, Eau, Fécule de maïs. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
     },
     {
       "id": "011",
