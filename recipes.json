@@ -1194,7 +1194,16 @@
       "label": "TikTok — @lesgourmandisesdeloubna",
       "url": "https://www.tiktok.com/@_/video/7608906113584614689"
     },
-    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment.",
+    "photo": {
+      "src": "./images/010.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Shawarma de poulet à l’ail confit"
+    }
   },
   {
     "id": "011",
