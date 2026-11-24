@@ -259,9 +259,9 @@
         "emoji": "🫒"
       },
       {
-        "name": "Ail",
+        "name": "Gousses d’ail",
         "qty": 3,
-        "unit": "pièce",
+        "unit": "gousse",
         "rule": "half",
         "emoji": "🧄"
       },
@@ -348,9 +348,9 @@
         "emoji": "🧀"
       },
       {
-        "name": "Ail pour la farce",
+        "name": "Gousses d’ail pour la farce",
         "qty": 1,
-        "unit": "pièce",
+        "unit": "gousse",
         "rule": "half",
         "emoji": "🧄"
       },
@@ -391,9 +391,9 @@
         "emoji": "🥣"
       },
       {
-        "name": "Ail pour la sauce",
+        "name": "Gousses d’ail pour la sauce",
         "qty": 1,
-        "unit": "pièce",
+        "unit": "gousse",
         "rule": "half",
         "emoji": "🧄"
       },
@@ -563,7 +563,7 @@
         "emoji": "🌶️"
       },
       {
-        "name": "Jus de citron pour les pickles",
+        "name": "Citron pour les pickles (jus)",
         "qty": 0.5,
         "unit": "pièce",
         "rule": "half",
@@ -578,14 +578,14 @@
         "emoji": "🥣"
       },
       {
-        "name": "Ail pour la sauce blanche",
+        "name": "Gousses d’ail pour la sauce blanche",
         "qty": 2.5,
-        "unit": "pièce",
+        "unit": "gousse",
         "rule": "half",
         "emoji": "🧄"
       },
       {
-        "name": "Jus de citron pour la sauce blanche",
+        "name": "Citron pour la sauce blanche (jus)",
         "qty": 0.5,
         "unit": "pièce",
         "rule": "half",
@@ -653,9 +653,9 @@
         "emoji": "🍜"
       },
       {
-        "name": "Ail",
+        "name": "Gousses d’ail",
         "qty": 2,
-        "unit": "pièce",
+        "unit": "gousse",
         "rule": "half",
         "emoji": "🧄"
       },
@@ -797,9 +797,9 @@
         "emoji": "🍄"
       },
       {
-        "name": "Ail",
+        "name": "Gousses d’ail",
         "qty": 2,
-        "unit": "pièce",
+        "unit": "gousse",
         "rule": "half",
         "emoji": "🧄"
       },
