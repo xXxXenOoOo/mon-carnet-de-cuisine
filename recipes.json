@@ -3994,5 +3994,462 @@
       "excerptMagazine": "Femmes Magazine n°282, novembre 2026, p. 81",
       "checked": "2026-11-24"
     }
+  },
+  {
+    "title": "Tomates très bien farcies — feta et olives",
+    "category": "Plats au four",
+    "cuisine": "Cuisine française",
+    "status": "À tester",
+    "base": 6,
+    "prep": "25 min (estimation)",
+    "cook": "45 min au four + 20 min de sauce",
+    "difficulty": "Facile",
+    "equipment": [
+      "Four",
+      "Plat à gratin",
+      "Poêle ou sauteuse",
+      "Saladier",
+      "Couteau et petite cuillère",
+      "Mixeur plongeant (facultatif)"
+    ],
+    "ingredients": [
+      {
+        "name": "Tranches de pain de mie",
+        "qty": 2,
+        "unit": "tranches",
+        "rule": "whole",
+        "emoji": "🍞"
+      },
+      {
+        "name": "Lait pour imbiber le pain",
+        "rule": "unknown",
+        "emoji": "🥛"
+      },
+      {
+        "name": "Bœuf haché",
+        "qty": 300,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🥩",
+        "step": 25
+      },
+      {
+        "name": "Chair à saucisse",
+        "qty": 150,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🌭",
+        "step": 25
+      },
+      {
+        "name": "Oignon",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Échalotes",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Œuf",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🥚"
+      },
+      {
+        "name": "Feta",
+        "qty": 50,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🧀",
+        "step": 10
+      },
+      {
+        "name": "Gousses d’ail",
+        "qty": 2,
+        "unit": "gousse",
+        "rule": "whole",
+        "emoji": "🧄"
+      },
+      {
+        "name": "Persil plat ciselé",
+        "qty": 1,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🌿"
+      },
+      {
+        "name": "Olives vertes",
+        "qty": 50,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🫒",
+        "step": 10
+      },
+      {
+        "name": "Grosses tomates à farcir",
+        "qty": 6,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🍅"
+      },
+      {
+        "name": "Origan",
+        "qty": 1,
+        "unit": "c. à café",
+        "rule": "half",
+        "emoji": "🌿"
+      },
+      {
+        "name": "Huile d’olive",
+        "qty": 2,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🫒"
+      },
+      {
+        "name": "Sel et poivre",
+        "rule": "taste",
+        "emoji": "🧂"
+      }
+    ],
+    "steps": [
+      "Mettre le pain en petits morceaux dans un bol avec un peu de lait ; l’essorer une fois assoupli. Chauffer le four à 180 °C.",
+      "Réunir le bœuf et la chair à saucisse avec la moitié de l’oignon, une échalote, une gousse d’ail hachée, l’œuf, la feta émiettée, le persil et le pain. Assaisonner, puis intégrer les olives en rondelles.",
+      "Découper un couvercle sur chaque tomate ; retirer délicatement la pulpe et la réserver pour la sauce.",
+      "Garnir les tomates avec la farce en évitant les poches d’air, replacer leurs chapeaux et cuire environ 45 minutes dans un plat.",
+      "Pendant ce temps, faire suer dans l’huile l’oignon, l’échalote et la gousse d’ail restants. Ajouter la pulpe de tomate et laisser compoter environ 20 minutes.",
+      "Parfumer la sauce d’origan, puis la mixer si une texture lisse est souhaitée. Servir autour des tomates, éventuellement avec du riz."
+    ],
+    "tip": "La quantité de lait n’est pas indiquée ; en ajouter juste assez pour humidifier le pain, puis bien l’essorer. Vérifier que le cœur de la farce de porc est correctement cuit.",
+    "variants": [],
+    "source": {
+      "label": "Femmes Magazine — extrait du livre Chester Foodies (23 septembre 2026)",
+      "url": "https://www.femmesmagazine.lu/la-recette-des-tomates-tres-bien-farcies/"
+    },
+    "portionNote": "Version de travail reformulée à partir d'un extrait du livre publié par Femmes Magazine. Recette non essayée par l’utilisateur : À tester. Quantité de lait non précisée par la source.",
+    "provenance": {
+      "book": "Les Classiques revisités de Chester Foodies",
+      "author": "Julien Chabane",
+      "publisher": "Albin Michel",
+      "published": "2026-09-23",
+      "isbn": "9782226511041",
+      "bookUrl": "https://www.albin-michel.fr/les-classiques-revisites-de-chester-foodies-9782226511041",
+      "excerptMedia": "Femmes Magazine",
+      "checked": "2026-11-24"
+    },
+    "id": "050"
+  },
+  {
+    "title": "Pâtes à la savoyarde au reblochon et aux diots",
+    "category": "Pâtes",
+    "cuisine": "Savoie",
+    "status": "À tester",
+    "base": 4,
+    "prep": "10 min",
+    "cook": "30 min",
+    "difficulty": "Facile",
+    "equipment": [
+      "Poêle profonde",
+      "Casserole pour les pâtes",
+      "Passoire",
+      "Couteau",
+      "Louche"
+    ],
+    "ingredients": [
+      {
+        "name": "Oignon",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Beurre",
+        "qty": 15,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🧈",
+        "step": 5
+      },
+      {
+        "name": "Diots de Savoie",
+        "qty": 4,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🌭"
+      },
+      {
+        "name": "Pâtes",
+        "qty": 500,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🍝",
+        "step": 25
+      },
+      {
+        "name": "Vin blanc de Savoie",
+        "qty": 10,
+        "unit": "cl",
+        "rule": "weight",
+        "emoji": "🍷",
+        "step": 5
+      },
+      {
+        "name": "Crème fraîche entière",
+        "qty": 30,
+        "unit": "cl",
+        "rule": "weight",
+        "emoji": "🥛",
+        "step": 5
+      },
+      {
+        "name": "Reblochon",
+        "qty": 0.5,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🧀"
+      },
+      {
+        "name": "Persil plat ciselé",
+        "qty": 2,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🌿"
+      },
+      {
+        "name": "Poivre",
+        "rule": "taste",
+        "emoji": "🧂"
+      }
+    ],
+    "steps": [
+      "Faire fondre doucement l’oignon finement émincé dans le beurre, environ cinq minutes. Ajouter les diots coupés en morceaux et les faire colorer.",
+      "Faire cuire les pâtes dans de l’eau salée en conservant une louche d’eau de cuisson avant de les égoutter.",
+      "Verser le vin blanc sur les saucisses et les oignons ; laisser réduire légèrement.",
+      "Ajouter la crème, le demi-reblochon en petits morceaux et un peu d’eau des pâtes ; chauffer doucement jusqu’à ce que la sauce soit homogène.",
+      "Parsemer de persil et incorporer les pâtes égouttées. Remuer une minute dans la sauce et servir sans attendre."
+    ],
+    "tip": "Garder de l’eau de cuisson pour détendre la sauce au fromage ; la faire fondre à feu doux plutôt que de la laisser bouillir.",
+    "variants": [],
+    "source": {
+      "label": "Version Femina — extrait du livre Chester Foodies",
+      "url": "https://prod.femina.lejdd.fr/cuisine/recettes/pates-a-la-savoyarde-au-reblochon"
+    },
+    "portionNote": "Version de travail reformulée à partir d'un extrait du livre publié par Version Femina. Recette non essayée par l’utilisateur : À tester.",
+    "provenance": {
+      "book": "Les Classiques revisités de Chester Foodies",
+      "author": "Julien Chabane",
+      "publisher": "Albin Michel",
+      "published": "2026-09-23",
+      "isbn": "9782226511041",
+      "bookUrl": "https://www.albin-michel.fr/les-classiques-revisites-de-chester-foodies-9782226511041",
+      "excerptMedia": "Version Femina",
+      "checked": "2026-11-24"
+    },
+    "id": "051"
+  },
+  {
+    "title": "Tartiflette savoyarde de Chester Foodies",
+    "category": "Plats au four",
+    "cuisine": "Savoie",
+    "status": "À tester",
+    "base": 6,
+    "prep": "20 min",
+    "cook": "1 h 15",
+    "difficulty": "Facile",
+    "equipment": [
+      "Cocotte avec couvercle",
+      "Plat à gratin",
+      "Four",
+      "Planche et couteau"
+    ],
+    "ingredients": [
+      {
+        "name": "Lard fumé",
+        "qty": 200,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🥓",
+        "step": 25
+      },
+      {
+        "name": "Oignons",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Gousses d’ail",
+        "qty": 2,
+        "unit": "gousse",
+        "rule": "whole",
+        "emoji": "🧄"
+      },
+      {
+        "name": "Vin blanc",
+        "qty": 10,
+        "unit": "cl",
+        "rule": "weight",
+        "emoji": "🍷",
+        "step": 5
+      },
+      {
+        "name": "Pommes de terre à chair ferme",
+        "qty": 1000,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🥔",
+        "step": 50
+      },
+      {
+        "name": "Reblochon fermier",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🧀"
+      }
+    ],
+    "steps": [
+      "Détailler le lard fumé en lardons et le faire blondir dans une cocotte bien chaude, sans ajout de matière grasse.",
+      "Ajouter les oignons émincés et l’ail haché ; faire revenir environ dix minutes dans le gras rendu.",
+      "Déglacer au vin blanc et attendre qu’il ait réduit à peu près de moitié.",
+      "Incorporer les pommes de terre pelées, tranchées à environ 5 mm. Couvrir et laisser cuire doucement une trentaine de minutes en remuant régulièrement.",
+      "Transférer la préparation dans un plat à gratin lorsque les pommes de terre sont presque fondantes.",
+      "Chauffer le four à 190 °C. Couper le reblochon en deux dans l’épaisseur et poser les deux moitiés sur les pommes de terre avec les croûtes visibles.",
+      "Faire gratiner environ trente minutes, jusqu’à obtenir une croûte bien dorée."
+    ],
+    "tip": "Surveiller la cocotte pendant la précuisson des pommes de terre : ajouter un tout petit fond d’eau si nécessaire pour éviter d’attacher, sans détremper le plat.",
+    "variants": [],
+    "source": {
+      "label": "Version Femina — extrait du livre Chester Foodies",
+      "url": "https://prod.femina.lejdd.fr/cuisine/recettes/tartiflette-savoyarde"
+    },
+    "portionNote": "Version de travail reformulée à partir d'un extrait du livre publié par Version Femina. Recette non essayée par l’utilisateur : À tester.",
+    "provenance": {
+      "book": "Les Classiques revisités de Chester Foodies",
+      "author": "Julien Chabane",
+      "publisher": "Albin Michel",
+      "published": "2026-09-23",
+      "isbn": "9782226511041",
+      "bookUrl": "https://www.albin-michel.fr/les-classiques-revisites-de-chester-foodies-9782226511041",
+      "excerptMedia": "Version Femina",
+      "checked": "2026-11-24"
+    },
+    "id": "052"
+  },
+  {
+    "title": "Cordons-bleus maison au comté",
+    "category": "Volailles",
+    "cuisine": "Cuisine française",
+    "status": "À tester",
+    "base": 2,
+    "prep": "30 min",
+    "cook": "20 min",
+    "difficulty": "Facile",
+    "equipment": [
+      "Poêle",
+      "Four",
+      "Plaque ou plat allant au four",
+      "Trois assiettes creuses",
+      "Papier cuisson"
+    ],
+    "ingredients": [
+      {
+        "name": "Filets de poulet",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🍗"
+      },
+      {
+        "name": "Tranches de jambon blanc",
+        "qty": 2,
+        "unit": "tranches",
+        "rule": "whole",
+        "emoji": "🍖"
+      },
+      {
+        "name": "Tranches de comté",
+        "qty": 4,
+        "unit": "tranches",
+        "rule": "whole",
+        "emoji": "🧀"
+      },
+      {
+        "name": "Farine",
+        "qty": 50,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🌾",
+        "step": 10
+      },
+      {
+        "name": "Œuf",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🥚"
+      },
+      {
+        "name": "Chapelure",
+        "qty": 50,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🍞",
+        "step": 10
+      },
+      {
+        "name": "Beurre",
+        "qty": 20,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🧈",
+        "step": 5
+      },
+      {
+        "name": "Huile neutre",
+        "rule": "taste",
+        "emoji": "🫗"
+      },
+      {
+        "name": "Sel et poivre",
+        "rule": "taste",
+        "emoji": "🧂"
+      }
+    ],
+    "steps": [
+      "Ouvrir les filets de poulet en portefeuille, les étaler entre deux feuilles de papier cuisson et les aplatir doucement pour obtenir des épaisseurs régulières.",
+      "Assaisonner les morceaux, puis garnir chacun de jambon blanc et de deux tranches de comté. Refermer ou rouler en ballotines bien serrées.",
+      "Passer dans la farine, puis dans l’œuf battu et enfin dans la chapelure. Refaire le passage œuf-chapelure pour une panure plus épaisse si souhaité.",
+      "Mettre au frais trente minutes pour fixer la forme et aider la panure à tenir.",
+      "Préchauffer le four à 180 °C. Dorer dans une poêle avec beurre et huile, environ cinq à six minutes de chaque côté à feu moyen.",
+      "Finir au four pendant cinq minutes environ, en vérifiant que le poulet est cuit à cœur (74 °C recommandé). Reposer deux minutes avant de couper."
+    ],
+    "tip": "Une épaisseur régulière du poulet facilite une cuisson sans brûler la chapelure ; employer un thermomètre à sonde si possible.",
+    "variants": [],
+    "source": {
+      "label": "Version Femina — extrait du livre Chester Foodies",
+      "url": "https://prod.femina.lejdd.fr/cuisine/recettes/cordons-bleus-au-comte"
+    },
+    "portionNote": "Version de travail reformulée à partir d'un extrait du livre publié par Version Femina. Recette non essayée par l’utilisateur : À tester. Repos au frais : 30 min, en plus des temps de préparation et cuisson.",
+    "provenance": {
+      "book": "Les Classiques revisités de Chester Foodies",
+      "author": "Julien Chabane",
+      "publisher": "Albin Michel",
+      "published": "2026-09-23",
+      "isbn": "9782226511041",
+      "bookUrl": "https://www.albin-michel.fr/les-classiques-revisites-de-chester-foodies-9782226511041",
+      "excerptMedia": "Version Femina",
+      "checked": "2026-11-24"
+    },
+    "id": "053"
   }
 ]
