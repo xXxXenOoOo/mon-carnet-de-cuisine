@@ -3296,5 +3296,561 @@
       "url": "https://www.tiktok.com/@_/video/7355174381074615584"
     },
     "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+  },
+  {
+    "id": "044",
+    "title": "Palette de porc à la diable",
+    "category": "Plats mijotés",
+    "cuisine": "Cuisine alsacienne",
+    "status": "À tester",
+    "base": 5,
+    "prep": "20 min + dessalage une nuit",
+    "cook": "1 h 45 au four",
+    "difficulty": "Facile",
+    "equipment": [
+      "Cocotte allant au four avec couvercle",
+      "Poêle ou cocotte pour saisir",
+      "Pinceau de cuisine",
+      "Planche et couteau"
+    ],
+    "ingredients": [
+      {
+        "name": "Palette de porc demi-sel",
+        "qty": 1200,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🥩",
+        "step": 50
+      },
+      {
+        "name": "Moutarde de Dijon",
+        "qty": 3,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Moutarde à l’ancienne",
+        "qty": 1,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Échalotes",
+        "qty": 3,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Gousses d’ail",
+        "qty": 2,
+        "unit": "gousse",
+        "rule": "whole",
+        "emoji": "🧄"
+      },
+      {
+        "name": "Vin blanc",
+        "qty": 20,
+        "unit": "cl",
+        "rule": "weight",
+        "emoji": "🍷",
+        "step": 5
+      },
+      {
+        "name": "Bouillon de volaille non salé",
+        "qty": 20,
+        "unit": "cl",
+        "rule": "weight",
+        "emoji": "🥣",
+        "step": 5
+      },
+      {
+        "name": "Vinaigre de vin",
+        "qty": 1,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Beurre et huile d’olive",
+        "rule": "taste",
+        "emoji": "🧈"
+      },
+      {
+        "name": "Thym et laurier",
+        "rule": "taste",
+        "emoji": "🌿"
+      },
+      {
+        "name": "Poivre",
+        "rule": "taste",
+        "emoji": "🧂"
+      }
+    ],
+    "steps": [
+      "Dessaler la palette dans un grand volume d’eau froide pendant la nuit, au réfrigérateur ; l’égoutter avant cuisson.",
+      "Colorer la palette sur toutes ses faces dans une cocotte avec un peu de beurre et d’huile, puis la réserver.",
+      "Attendrir les échalotes et l’ail émincés dans les sucs, puis déglacer avec le vin blanc et le vinaigre ; réduire environ de moitié.",
+      "Verser le bouillon, ajouter thym et laurier. Enduire la viande d’un mélange des deux moutardes et la remettre en cocotte.",
+      "Couvrir et enfourner environ 1 h 30 à 180 °C, en l’arrosant avec le jus. Terminer environ 15 min sans couvercle pour colorer.",
+      "Vérifier la tendreté et la salinité ; servir avec une purée maison si souhaité."
+    ],
+    "tip": "Comme la palette est demi-sel, utiliser un bouillon non salé et goûter avant tout ajout de sel.",
+    "variants": [],
+    "source": {
+      "label": "Chester Foodies — recette relayée par 750g",
+      "url": "https://www.750g.com/palette-de-porc-a-la-diable-la-recette-traditionnelle-et-pas-chere-qui-change-un-peu-a41893.htm"
+    },
+    "portionNote": "Source secondaire attribuée à @chester_foodies. Quantités publiées pour 4 à 6 personnes ; base de calcul fixée à 5. Recette non encore testée ni validée dans ce carnet.",
+    "provenance": {
+      "account": "https://www.instagram.com/chester_foodies/",
+      "verification": "article secondaire",
+      "checked": "2026-11-24"
+    }
+  },
+  {
+    "id": "045",
+    "title": "Morbiflette au morbier et à la Morteau",
+    "category": "Plats au four",
+    "cuisine": "Franche-Comté",
+    "status": "À tester",
+    "base": 6,
+    "prep": "25–35 min (estimation)",
+    "cook": "Cuisson en poêle + 15 min au four",
+    "difficulty": "Facile",
+    "equipment": [
+      "Casserole",
+      "Poêle profonde avec couvercle",
+      "Plat à gratin",
+      "Four",
+      "Planche et couteau"
+    ],
+    "ingredients": [
+      {
+        "name": "Pommes de terre",
+        "qty": 1000,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🥔",
+        "step": 50
+      },
+      {
+        "name": "Saucisse de Morteau",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🌭"
+      },
+      {
+        "name": "Oignons",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Gousse d’ail",
+        "qty": 1,
+        "unit": "gousse",
+        "rule": "whole",
+        "emoji": "🧄"
+      },
+      {
+        "name": "Vin blanc du Jura",
+        "qty": 1,
+        "unit": "verre",
+        "rule": "half",
+        "emoji": "🍷"
+      },
+      {
+        "name": "Crème fraîche",
+        "rule": "unknown",
+        "emoji": "🥛"
+      },
+      {
+        "name": "Morbier",
+        "qty": 700,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🧀",
+        "step": 50
+      }
+    ],
+    "steps": [
+      "Précuire la saucisse de Morteau dans l’eau frémissante environ 15 minutes puis la détailler en dés.",
+      "Couper les pommes de terre en petits cubes et émincer les oignons.",
+      "Faire dorer la saucisse à la poêle, puis ajouter les oignons et l’ail. Déglacer avec le vin du Jura et laisser réduire.",
+      "Ajouter les pommes de terre, couvrir et poursuivre la cuisson jusqu’à ce qu’elles soient tendres ; vérifier la présence de liquide pour éviter d’attacher.",
+      "Monter le gratin avec la garniture, des dés de morbier et des touches de crème, puis terminer par des tranches de morbier.",
+      "Enfourner à 200 °C environ 15 minutes, le temps de bien gratiner."
+    ],
+    "tip": "La quantité de crème et la taille du verre de vin ne sont pas précisées par la source ; à fixer après un premier essai.",
+    "variants": [],
+    "source": {
+      "label": "Chester Foodies — Reel Instagram (via Marmiton)",
+      "url": "https://www.instagram.com/reel/DPy4T5RArOe/"
+    },
+    "portionNote": "Les quantités viennent de Marmiton ; le nombre de convives n’est pas indiqué. Base provisoire de 6 personnes pour le calculateur, à confirmer avant utilisation.",
+    "provenance": {
+      "account": "https://www.instagram.com/chester_foodies/",
+      "article": "https://www.marmiton.org/recettes/connaissez-vous-la-morbiflette-cette-revisite-de-la-tartiflette-venue-tout-droit-de-franche-comte-s4119305.html",
+      "verification": "reel intégré à un article, reel non consultable directement",
+      "checked": "2026-11-24"
+    }
+  },
+  {
+    "id": "046",
+    "title": "Lasagnes montagnardes à la raclette",
+    "category": "Plats au four",
+    "cuisine": "Cuisine française",
+    "status": "À tester",
+    "base": 6,
+    "prep": "30–40 min (estimation)",
+    "cook": "30 min à 190 °C",
+    "difficulty": "Moyen",
+    "equipment": [
+      "Plat à gratin",
+      "Casserole et fouet",
+      "Poêle",
+      "Grand faitout",
+      "Four"
+    ],
+    "ingredients": [
+      {
+        "name": "Feuilles de lasagne",
+        "rule": "unknown",
+        "emoji": "🍝"
+      },
+      {
+        "name": "Fromage à raclette",
+        "qty": 1000,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🧀",
+        "step": 50
+      },
+      {
+        "name": "Jambon blanc",
+        "qty": 6,
+        "unit": "tranches",
+        "rule": "whole",
+        "emoji": "🍖"
+      },
+      {
+        "name": "Oignons",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Vin blanc",
+        "qty": 10,
+        "unit": "cl",
+        "rule": "weight",
+        "emoji": "🍷",
+        "step": 5
+      },
+      {
+        "name": "Beurre pour la béchamel",
+        "qty": 100,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🧈",
+        "step": 10
+      },
+      {
+        "name": "Farine pour la béchamel",
+        "qty": 100,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🌾",
+        "step": 10
+      },
+      {
+        "name": "Lait",
+        "qty": 100,
+        "unit": "cl",
+        "rule": "weight",
+        "emoji": "🥛",
+        "step": 5
+      },
+      {
+        "name": "Beurre pour faire revenir les oignons",
+        "rule": "taste",
+        "emoji": "🧈"
+      },
+      {
+        "name": "Sel, poivre et muscade",
+        "rule": "taste",
+        "emoji": "🧂"
+      }
+    ],
+    "steps": [
+      "Faire fondre les oignons émincés au beurre, les laisser prendre une légère couleur, puis ajouter le vin blanc et le laisser réduire.",
+      "Plonger brièvement les feuilles de lasagne dans l’eau bouillante (environ 5 min, selon les indications du fabricant).",
+      "Préparer une béchamel avec beurre et farine puis incorporer progressivement le lait en fouettant ; assaisonner avec poivre et muscade.",
+      "Dans un plat, alterner béchamel, pâtes, jambon, fromage à raclette et oignons. Recommencer jusqu’à épuisement des ingrédients.",
+      "Terminer par une couche de fromage et de béchamel puis enfourner environ 30 min à 190 °C.",
+      "Laisser reposer quelques minutes avant de découper."
+    ],
+    "tip": "Le nombre de feuilles de lasagne n’est pas précisé ; choisir selon la taille du plat. Rectifier le sel en tenant compte du fromage et du jambon.",
+    "variants": [],
+    "source": {
+      "label": "Chester Foodies — recette relayée par 750g",
+      "url": "https://www.750g.com/et-si-on-changeait-de-la-tartiflette-essayez-ces-lasagnes-montagnardes-express-a-la-raclette-a42250.htm"
+    },
+    "portionNote": "Portions non indiquées par la source : base provisoire 6 personnes. Les quantités de feuilles de lasagne sont manquantes ; recette à tester et préciser.",
+    "provenance": {
+      "account": "https://www.instagram.com/chester_foodies/",
+      "verification": "article secondaire",
+      "checked": "2026-11-24"
+    }
+  },
+  {
+    "id": "047",
+    "title": "Tartinade de courgettes, chèvre et poitrine fumée",
+    "category": "Apéritifs",
+    "cuisine": "Cuisine française",
+    "status": "À tester",
+    "base": 6,
+    "prep": "20 min (estimation)",
+    "cook": "30 min + refroidissement 30 min",
+    "difficulty": "Facile",
+    "equipment": [
+      "Four",
+      "Plaque de cuisson",
+      "Mixeur",
+      "Passoire ou torchon propre",
+      "Bol de service"
+    ],
+    "ingredients": [
+      {
+        "name": "Petites courgettes",
+        "qty": 4,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🥒"
+      },
+      {
+        "name": "Tête d’ail",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🧄"
+      },
+      {
+        "name": "Oignon rouge",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Chèvre frais",
+        "rule": "unknown",
+        "emoji": "🧀"
+      },
+      {
+        "name": "Tranches de poitrine fumée",
+        "rule": "unknown",
+        "emoji": "🥓"
+      },
+      {
+        "name": "Basilic",
+        "rule": "taste",
+        "emoji": "🌿"
+      },
+      {
+        "name": "Cébette (facultatif)",
+        "rule": "taste",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Huile d’olive",
+        "rule": "taste",
+        "emoji": "🫒"
+      },
+      {
+        "name": "Sel, poivre et piment d’Espelette",
+        "rule": "taste",
+        "emoji": "🧂"
+      },
+      {
+        "name": "Pain à griller",
+        "rule": "unknown",
+        "emoji": "🥖"
+      }
+    ],
+    "steps": [
+      "Partager les courgettes dans la longueur et déposer sur une plaque avec l’oignon rouge et la tête d’ail coupée.",
+      "Assaisonner d’un filet d’huile, de sel et de poivre puis rôtir environ 30 min à 200 °C.",
+      "Laisser tiédir, bien égoutter les courgettes pour limiter leur eau, puis mixer avec la chair d’ail rôti et l’oignon.",
+      "Ajouter le chèvre frais et le basilic ; mixer à nouveau pour obtenir une texture tartinable.",
+      "Réserver au frais au moins 30 minutes.",
+      "Rendre la poitrine fumée croustillante au four ; la détailler en éclats. Griller le pain séparément.",
+      "Servir la tartinade avec la poitrine croustillante, un filet d’huile, du piment d’Espelette et de la cébette si désiré."
+    ],
+    "tip": "Le volume de chèvre frais et de poitrine fumée manque dans la source ; le calibrer au prochain essai. Égoutter les courgettes est important pour la tenue.",
+    "variants": [],
+    "source": {
+      "label": "Chester Foodies — Reel Instagram (via Marmiton)",
+      "url": "https://www.instagram.com/reel/DMnXsHhiaFF/"
+    },
+    "portionNote": "Marmiton indique 6 personnes. Plusieurs ingrédients sont mentionnés sans quantités ; ne pas considérer cette fiche comme une version finale.",
+    "provenance": {
+      "account": "https://www.instagram.com/chester_foodies/",
+      "article": "https://www.marmiton.org/Aperitif/une-idee-fraiche-simple-et-trop-bonne-pour-l-apero-cette-tartinade-de-courgette-au-bacon-est-a-tester-d-urgence-s4117689.html",
+      "verification": "reel intégré à un article, reel non consultable directement",
+      "checked": "2026-11-24"
+    }
+  },
+  {
+    "id": "048",
+    "title": "Potée de chou à la sauce moutarde",
+    "category": "Plats mijotés",
+    "cuisine": "Cuisine française",
+    "status": "À tester",
+    "base": 8,
+    "prep": "25–35 min (estimation)",
+    "cook": "Environ 1 h 30",
+    "difficulty": "Moyen",
+    "equipment": [
+      "Grande marmite",
+      "Casserole pour le roux",
+      "Écumoire",
+      "Planche et couteau"
+    ],
+    "ingredients": [
+      {
+        "name": "Chou vert frisé",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🥬"
+      },
+      {
+        "name": "Lard fumé",
+        "qty": 1000,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🥓",
+        "step": 50
+      },
+      {
+        "name": "Échine de porc fumée",
+        "qty": 1000,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🥩",
+        "step": 50
+      },
+      {
+        "name": "Eau froide",
+        "qty": 5,
+        "unit": "L",
+        "rule": "half",
+        "emoji": "💧"
+      },
+      {
+        "name": "Oignon",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Clous de girofle",
+        "qty": 6,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🌿"
+      },
+      {
+        "name": "Tête d’ail",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🧄"
+      },
+      {
+        "name": "Bouquet garni",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🌿"
+      },
+      {
+        "name": "Carottes",
+        "qty": 8,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🥕"
+      },
+      {
+        "name": "Petites pommes de terre (facultatif)",
+        "qty": 10,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🥔"
+      },
+      {
+        "name": "Saucisses de Montbéliard",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🌭"
+      },
+      {
+        "name": "Beurre pour la sauce",
+        "qty": 40,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🧈",
+        "step": 5
+      },
+      {
+        "name": "Farine pour la sauce",
+        "qty": 40,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🌾",
+        "step": 5
+      },
+      {
+        "name": "Moutarde à l’ancienne",
+        "qty": 2,
+        "unit": "c. à soupe",
+        "rule": "half",
+        "emoji": "🥄"
+      },
+      {
+        "name": "Bouillon de cuisson et poivre",
+        "rule": "taste",
+        "emoji": "🥣"
+      }
+    ],
+    "steps": [
+      "Nettoyer puis couper le chou en quartiers et le blanchir brièvement ; l’égoutter.",
+      "Mettre les viandes fumées dans l’eau froide, porter à ébullition, écumer et ajouter l’oignon piqué des clous, l’ail et le bouquet garni.",
+      "Faire mijoter à feu doux environ une heure avant de joindre les carottes et le chou.",
+      "Ajouter les pommes de terre et les saucisses de Montbéliard ; prolonger environ 30 min jusqu’à cuisson complète des légumes et des viandes.",
+      "Dans une casserole, cuire le beurre et la farine quelques instants puis détendre avec le bouillon de potée. Incorporer la moutarde à l’ancienne.",
+      "Servir les morceaux de viande, les légumes et la sauce séparément."
+    ],
+    "tip": "Contrôler la teneur en sel : les viandes fumées et le bouillon sont déjà salés.",
+    "variants": [],
+    "source": {
+      "label": "Chester Foodies — recette relayée par Doken",
+      "url": "https://www.doken.fr/cuisine/3508"
+    },
+    "portionNote": "La source ne précise pas les portions ; base provisoire 8 personnes. Informations provenant d’une reprise tierce d’une recette attribuée à @chester_foodies, à contrôler sur la vidéo originale.",
+    "provenance": {
+      "account": "https://www.instagram.com/chester_foodies/",
+      "verification": "source secondaire non vérifiée auprès de la publication originale",
+      "checked": "2026-11-24"
+    }
   }
 ]
