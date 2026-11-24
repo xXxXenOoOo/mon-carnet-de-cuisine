@@ -3840,5 +3840,159 @@
       "verification": "source secondaire non vérifiée auprès de la publication originale",
       "checked": "2026-11-24"
     }
+  },
+  {
+    "id": "049",
+    "title": "Cabillaud lardé, sauce vierge et röstis",
+    "category": "Poissons",
+    "cuisine": "Cuisine française",
+    "status": "À tester",
+    "base": 4,
+    "prep": "30 min",
+    "cook": "30 min",
+    "difficulty": "Moyen",
+    "equipment": [
+      "Deux poêles antiadhésives ou bien culottées",
+      "Saladier",
+      "Râpe à gros trous",
+      "Torchon propre",
+      "Planche et couteau",
+      "Cure-dents ou ficelle de cuisine (facultatif)"
+    ],
+    "ingredients": [
+      {
+        "name": "Pommes de terre à chair ferme",
+        "qty": 500,
+        "unit": "g",
+        "rule": "weight",
+        "emoji": "🥔",
+        "step": 25
+      },
+      {
+        "name": "Œuf",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🥚"
+      },
+      {
+        "name": "Huile d’olive pour les röstis",
+        "qty": 50,
+        "unit": "ml",
+        "rule": "weight",
+        "emoji": "🫒",
+        "step": 10
+      },
+      {
+        "name": "Filets de cabillaud (grands)",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🐟"
+      },
+      {
+        "name": "Tranches fines de poitrine fumée",
+        "qty": 4,
+        "unit": "tranches",
+        "rule": "whole",
+        "emoji": "🥓"
+      },
+      {
+        "name": "Échalote",
+        "qty": 1,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Oignon rouge",
+        "qty": 0.5,
+        "unit": "pièce",
+        "rule": "half",
+        "emoji": "🧅"
+      },
+      {
+        "name": "Gousses d’ail",
+        "qty": 2,
+        "unit": "gousse",
+        "rule": "whole",
+        "emoji": "🧄"
+      },
+      {
+        "name": "Persil plat",
+        "qty": 0.5,
+        "unit": "bouquet",
+        "rule": "half",
+        "emoji": "🌿"
+      },
+      {
+        "name": "Ciboulette",
+        "qty": 1,
+        "unit": "bouquet",
+        "rule": "whole",
+        "emoji": "🌿"
+      },
+      {
+        "name": "Estragon",
+        "qty": 1,
+        "unit": "branche",
+        "rule": "whole",
+        "emoji": "🌿"
+      },
+      {
+        "name": "Tomates Roma",
+        "qty": 2,
+        "unit": "pièce",
+        "rule": "whole",
+        "emoji": "🍅"
+      },
+      {
+        "name": "Jus de citron",
+        "qty": 0.5,
+        "unit": "citron",
+        "rule": "half",
+        "emoji": "🍋"
+      },
+      {
+        "name": "Huile d’olive pour la sauce vierge",
+        "qty": 200,
+        "unit": "ml",
+        "rule": "weight",
+        "emoji": "🫒",
+        "step": 10
+      },
+      {
+        "name": "Sel et poivre",
+        "rule": "taste",
+        "emoji": "🧂"
+      }
+    ],
+    "steps": [
+      "Préparer d’abord la sauce vierge : épépiner les tomates et les détailler en petits cubes. Ciseler l’échalote, l’oignon rouge, l’ail et les herbes.",
+      "Mélanger les légumes et les herbes avec le jus de citron et l’huile d’olive destinée à la sauce. Saler, poivrer et laisser reposer pendant la préparation du reste.",
+      "Râper grossièrement les pommes de terre épluchées, puis les presser dans un torchon pour retirer le plus d’eau possible.",
+      "Ajouter l’œuf et les 50 ml d’huile d’olive, assaisonner puis façonner quatre galettes régulières.",
+      "Faire dorer les galettes à la poêle à feu doux, environ dix minutes de chaque côté, jusqu’à ce qu’elles soient cuites à cœur.",
+      "Couper les deux gros filets de cabillaud en deux dans la longueur pour former quatre portions allongées. Entourer chacune d’une tranche de poitrine fumée et fixer si nécessaire.",
+      "Poêler les roulés de poisson environ quatre à cinq minutes de chaque côté en ajustant selon leur épaisseur : le cabillaud doit être opaque et se détacher facilement en feuillets.",
+      "Dresser un rösti par assiette, poser dessus le cabillaud lardé et répartir la sauce vierge."
+    ],
+    "tip": "Bien essorer les pommes de terre pour obtenir des galettes croustillantes. Si les filets sont très épais, adapter la cuisson et vérifier le cœur du poisson plutôt que de suivre uniquement le chronomètre.",
+    "variants": [],
+    "source": {
+      "label": "Chester Foodies — extrait du livre publié dans Femmes Magazine, novembre 2026",
+      "url": "https://www.femmesmagazine.lu/wp-content/uploads/2026/11/20261102-154105-bbcfnllwp.pdf"
+    },
+    "portionNote": "Recette issue d’un extrait publiquement diffusé (Femmes Magazine n°282, p. 81) du livre Les Classiques revisités de Chester Foodies (Albin Michel, 2026, ISBN 9782226511041). Étapes reformulées pour le carnet ; aucune dégustation utilisateur, statut À tester.",
+    "provenance": {
+      "book": "Les Classiques revisités de Chester Foodies",
+      "author": "Julien Chabane",
+      "publisher": "Albin Michel",
+      "published": "2026-09-23",
+      "isbn": "9782226511041",
+      "bookUrl": "https://www.albin-michel.fr/les-classiques-revisites-de-chester-foodies-9782226511041",
+      "excerptMagazine": "Femmes Magazine n°282, novembre 2026, p. 81",
+      "checked": "2026-11-24"
+    }
   }
 ]
