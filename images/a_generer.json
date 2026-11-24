@@ -1,36 +1,9 @@
 {
   "description": "Images IA à produire lors de la prochaine édition ; liste mise à jour automatiquement lors des changements de recettes.",
   "total_recettes": 62,
-  "images_realisees": 4,
-  "images_a_realiser": 58,
+  "images_realisees": 9,
+  "images_a_realiser": 53,
   "recettes": [
-    {
-      "id": "005",
-      "titre": "Shawarma croustillant au bœuf",
-      "categorie": "Street food",
-      "priorite": "haute",
-      "source_incomplete": false,
-      "fichier_attendu": "images/005.webp",
-      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Shawarma croustillant au bœuf. Ingrédients mentionnés dans la fiche : Bœuf haché à 5 % MG, Tomates cerises, Poivron, Cumin moulu pour la viande, Coriandre moulue pour la viande, Paprika pour la viande, Curcuma, cannelle, ail, oignon et paprika fumé (en petites quantités), Harissa pour la viande (facultatif), Harissa pour la sauce rouge. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
-    },
-    {
-      "id": "006",
-      "titre": "Nouilles au sésame épicées",
-      "categorie": "Pâtes et nouilles",
-      "priorite": "haute",
-      "source_incomplete": false,
-      "fichier_attendu": "images/006.webp",
-      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Nouilles au sésame épicées. Ingrédients mentionnés dans la fiche : Nouilles sèches (blé, udon, ramen ou soba), Gousses d’ail, Gingembre frais, Poudre de piment rouge, Oignon nouveau, Graines de sésame, Huile de sésame chaude, Sauce soja légère, Jus de citron vert. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
-    },
-    {
-      "id": "007",
-      "titre": "Tourte au poulet, lard, poireaux et champignons",
-      "categorie": "Plats au four",
-      "priorite": "haute",
-      "source_incomplete": false,
-      "fichier_attendu": "images/007.webp",
-      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Tourte au poulet, lard, poireaux et champignons. Ingrédients mentionnés dans la fiche : Filets de poulet, Lard fumé (un paquet d’allumettes selon la source), Oignon, Poireau, Champignons portobello, Gousses d’ail, Beurre, Farine, Bouillon de volaille. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
-    },
     {
       "id": "044",
       "titre": "Palette de porc à la diable",
@@ -183,24 +156,6 @@
       "source_incomplete": false,
       "fichier_attendu": "images/062.webp",
       "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Tournedos de canard aux figues séchées. Ingrédients mentionnés dans la fiche : Magrets de canard avec peau, Figues séchées, Graisse de canard pour la poêle, Thym, Sel et poivre. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
-    },
-    {
-      "id": "008",
-      "titre": "Mac’n’cheese au Beaufort",
-      "categorie": "Pâtes et nouilles",
-      "priorite": "normale",
-      "source_incomplete": true,
-      "fichier_attendu": "images/008.webp",
-      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Mac’n’cheese au Beaufort. Ingrédients mentionnés dans la fiche : Macaronis, Beaufort, Poitrine fumée, Moutarde, Sirop d’érable, Paprika fumé, Piment d’Espelette, Poivre. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
-    },
-    {
-      "id": "009",
-      "titre": "Nouilles sautées au poulet (Pad See Ew)",
-      "categorie": "Pâtes et nouilles",
-      "priorite": "normale",
-      "source_incomplete": true,
-      "fichier_attendu": "images/009.webp",
-      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Nouilles sautées au poulet (Pad See Ew). Ingrédients mentionnés dans la fiche : Nouilles de riz, Cuisse de poulet, Brocolini, Œufs, Sauce soja, Sauce huître, Sucre, Citron vert. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
     },
     {
       "id": "010",
