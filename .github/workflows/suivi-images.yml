@@ -1,0 +1,28 @@
+name: Suivi automatique des illustrations
+on:
+  push:
+    paths:
+      - 'recipes.json'
+      - 'scripts/generer_file_images.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  queue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Mettre à jour la liste des images manquantes
+        run: python scripts/generer_file_images.py
+      - name: Enregistrer le suivi si modifié
+        run: |
+          if ! git diff --quiet -- images/a_generer.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add images/a_generer.json
+            git commit -m "Mettre à jour la file des illustrations à créer"
+            git push
+          fi
