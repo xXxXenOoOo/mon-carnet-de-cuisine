@@ -1,8 +1,8 @@
 {
   "description": "Images IA à produire lors de la prochaine édition ; liste mise à jour automatiquement lors des changements de recettes.",
-  "total_recettes": 54,
+  "total_recettes": 62,
   "images_realisees": 4,
-  "images_a_realiser": 50,
+  "images_a_realiser": 58,
   "recettes": [
     {
       "id": "005",
@@ -129,6 +129,60 @@
       "source_incomplete": false,
       "fichier_attendu": "images/054.webp",
       "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Poulet au beurre de cacahuète et lait de coco. Ingrédients mentionnés dans la fiche : Blancs de poulet, Oignon, Gousse d’ail, Tomate, Concentré de tomate, Cacahuètes, Beurre de cacahuète nature (type Dakatine), Lait de coco, Eau. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "055",
+      "titre": "Carbonara basque au Kintoa et à l’Ossau-Iraty",
+      "categorie": "Pâtes",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/055.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Carbonara basque au Kintoa et à l’Ossau-Iraty. Ingrédients mentionnés dans la fiche : Spaghetti, Poitrine de porc Kintoa, Ossau-Iraty, Jaunes d’œuf, Poivre noir en grains, Piment d’Espelette, Eau de cuisson des pâtes. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "056",
+      "titre": "Poulet Gaston Gérard au comté, moutarde et paprika",
+      "categorie": "Volailles",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/056.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Poulet Gaston Gérard au comté, moutarde et paprika. Ingrédients mentionnés dans la fiche : Poulet entier, Gros oignon blanc, Paprika, Comté, Crème fraîche épaisse, Moutarde à l’ancienne, Vin blanc, Bouillon de volaille, Sel et poivre. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "058",
+      "titre": "Quiche au maroilles, lard fumé et miel",
+      "categorie": "Plats au four",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/058.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Quiche au maroilles, lard fumé et miel. Ingrédients mentionnés dans la fiche : Farine (pâte), Beurre (pâte), Œuf pour la pâte, Sucre pour la pâte, Liquide pour la pâte, Poitrine fumée, Oignons, Vin blanc pour déglacer, Crème liquide. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "060",
+      "titre": "Curry de cochon à l’échine et au lait de coco",
+      "categorie": "Plats mijotés",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/060.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Curry de cochon à l’échine et au lait de coco. Ingrédients mentionnés dans la fiche : Oignons, Échalotes, Échine de porc, Beurre, Pâte de curry jaune, Vin blanc, Lait de coco, Pulpe de tomates, Concentré de tomate. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "061",
+      "titre": "Paupiette de cuisse de poulet désossée au chou et au lard",
+      "categorie": "Volailles",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/061.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Paupiette de cuisse de poulet désossée au chou et au lard. Ingrédients mentionnés dans la fiche : Belle cuisse de poulet, Grandes feuilles de chou frisé, Chair à saucisse, Crépine, Tranches de lard, Beurre, Vin blanc sec, Bouillon de volaille, Sel et poivre. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "062",
+      "titre": "Tournedos de canard aux figues séchées",
+      "categorie": "Viandes",
+      "priorite": "haute",
+      "source_incomplete": false,
+      "fichier_attendu": "images/062.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Tournedos de canard aux figues séchées. Ingrédients mentionnés dans la fiche : Magrets de canard avec peau, Figues séchées, Graisse de canard pour la poêle, Thym, Sel et poivre. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
     },
     {
       "id": "008",
@@ -453,6 +507,24 @@
       "source_incomplete": true,
       "fichier_attendu": "images/043.webp",
       "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Birria tacos. Ingrédients mentionnés dans la fiche : Bœuf, Tortillas. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "057",
+      "titre": "Blanquette de Saint-Jacques aux poireaux",
+      "categorie": "Poissons et fruits de mer",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/057.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Blanquette de Saint-Jacques aux poireaux. Ingrédients mentionnés dans la fiche : Noix de Saint-Jacques, Carottes, Poireaux, Champignons, Citron, Oignons, Clous de girofle, Vin blanc sec, Beurre (saisie et roux). Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
+    },
+    {
+      "id": "059",
+      "titre": "Joues de bœuf confites au fumoir et mayonnaise wasabi",
+      "categorie": "Barbecue",
+      "priorite": "normale",
+      "source_incomplete": true,
+      "fichier_attendu": "images/059.webp",
+      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Joues de bœuf confites au fumoir et mayonnaise wasabi. Ingrédients mentionnés dans la fiche : Joues de bœuf, Sel, Vergeoise ou cassonade, Poivre fraîchement moulu, Ail en poudre, Graisse de bœuf pour confire, Bois de fumage, Pain à sandwich (facultatif), Mayonnaise au wasabi (facultatif). Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
     }
   ]
 }
