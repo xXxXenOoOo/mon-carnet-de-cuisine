@@ -1,18 +1,9 @@
 {
   "description": "Images IA à produire lors de la prochaine édition ; liste mise à jour automatiquement lors des changements de recettes.",
   "total_recettes": 62,
-  "images_realisees": 10,
-  "images_a_realiser": 52,
+  "images_realisees": 11,
+  "images_a_realiser": 51,
   "recettes": [
-    {
-      "id": "044",
-      "titre": "Palette de porc à la diable",
-      "categorie": "Plats mijotés",
-      "priorite": "haute",
-      "source_incomplete": false,
-      "fichier_attendu": "images/044.webp",
-      "prompt": "Photographie culinaire hyperréaliste pour un carnet de recettes français, esthétique rustique naturelle, repas maison non surstylisé, lumière de fenêtre, bois patiné, linge en lin, vaisselle traditionnelle, cuisson crédible et textures authentiques. Plat : Palette de porc à la diable. Ingrédients mentionnés dans la fiche : Palette de porc demi-sel, Moutarde de Dijon, Moutarde à l’ancienne, Échalotes, Gousses d’ail, Vin blanc, Bouillon de volaille non salé, Vinaigre de vin, Beurre et huile d’olive. Préserver l’identité culinaire du plat et ses ingrédients dominants. Composition horizontale 16:9, plat intégralement visible avec 12 % de marge, aucun zoom extrême, pas de mains, pas de personnes, pas de texte, pas de logo. Ne pas représenter comme vérifiés des ingrédients ou des étapes inconnus."
-    },
     {
       "id": "045",
       "titre": "Morbiflette au morbier et à la Morteau",

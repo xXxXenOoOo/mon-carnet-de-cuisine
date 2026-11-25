@@ -3442,6 +3442,15 @@
       "account": "https://www.instagram.com/chester_foodies/",
       "verification": "article secondaire",
       "checked": "2026-11-24"
+    },
+    "photo": {
+      "src": "./images/044.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Palette de porc à la diable"
     }
   },
   {
