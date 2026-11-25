@@ -1292,7 +1292,16 @@
       "label": "TikTok — @zachary_masterchef",
       "url": "https://www.tiktok.com/@_/video/7623821874807590166"
     },
-    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment.",
+    "photo": {
+      "src": "./images/011.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Jalapeños farcis au cheddar"
+    }
   },
   {
     "id": "012",
@@ -1346,7 +1355,16 @@
       "label": "TikTok — @cosma_sur_tiktok",
       "url": "https://www.tiktok.com/@_/video/7623451902117809430"
     },
-    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment.",
+    "photo": {
+      "src": "./images/012.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Burger smash rösti"
+    }
   },
   {
     "id": "013",
@@ -1385,7 +1403,16 @@
       "label": "TikTok — @zachary_masterchef",
       "url": "https://www.tiktok.com/@_/video/7602312364855135511"
     },
-    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment.",
+    "photo": {
+      "src": "./images/013.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Sandwich merguez-frites revisité"
+    }
   },
   {
     "id": "014",
@@ -1454,7 +1481,16 @@
       "label": "TikTok — @cosma_sur_tiktok",
       "url": "https://www.tiktok.com/@_/video/7611228173824478486"
     },
-    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment."
+    "portionNote": "Portions d’origine non établies : aucune quantité n’est extrapolée pour le moment.",
+    "photo": {
+      "src": "./images/014.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Sandwich au confit de canard"
+    }
   },
   {
     "id": "015",
@@ -4844,7 +4880,16 @@
       "checked": "2026-11-24",
       "profile": "https://www.instagram.com/bonnepitance/"
     },
-    "id": "055"
+    "id": "055",
+    "photo": {
+      "src": "./images/055.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Carbonara basque au Kintoa et à l’Ossau-Iraty"
+    }
   },
   {
     "title": "Poulet Gaston Gérard au comté, moutarde et paprika",
@@ -4949,7 +4994,16 @@
       "checked": "2026-11-24",
       "profile": "https://www.instagram.com/bonnepitance/"
     },
-    "id": "056"
+    "id": "056",
+    "photo": {
+      "src": "./images/056.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Poulet Gaston Gérard au comté, moutarde et paprika"
+    }
   },
   {
     "title": "Blanquette de Saint-Jacques aux poireaux",
@@ -5220,7 +5274,16 @@
       "checked": "2026-11-24",
       "profile": "https://www.instagram.com/bonnepitance/"
     },
-    "id": "058"
+    "id": "058",
+    "photo": {
+      "src": "./images/058.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Quiche au maroilles, lard fumé et miel"
+    }
   },
   {
     "title": "Joues de bœuf confites au fumoir et mayonnaise wasabi",
@@ -5446,7 +5509,16 @@
         "url": "https://www.lisez.com/livres/bonne-pitance/9782263189272"
       }
     },
-    "id": "060"
+    "id": "060",
+    "photo": {
+      "src": "./images/060.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Curry de cochon à l’échine et au lait de coco"
+    }
   },
   {
     "title": "Paupiette de cuisse de poulet désossée au chou et au lard",
@@ -5562,7 +5634,16 @@
         "url": "https://www.lisez.com/livres/bonne-pitance/9782263189272"
       }
     },
-    "id": "061"
+    "id": "061",
+    "photo": {
+      "src": "./images/061.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Paupiette de cuisse de poulet désossée au chou et au lard"
+    }
   },
   {
     "title": "Tournedos de canard aux figues séchées",
@@ -5638,6 +5719,15 @@
         "url": "https://www.lisez.com/livres/bonne-pitance/9782263189272"
       }
     },
-    "id": "062"
+    "id": "062",
+    "photo": {
+      "src": "./images/062.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Tournedos de canard aux figues séchées"
+    }
   }
 ]
