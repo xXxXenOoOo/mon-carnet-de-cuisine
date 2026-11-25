@@ -3541,6 +3541,15 @@
       "article": "https://www.marmiton.org/recettes/connaissez-vous-la-morbiflette-cette-revisite-de-la-tartiflette-venue-tout-droit-de-franche-comte-s4119305.html",
       "verification": "reel intégré à un article, reel non consultable directement",
       "checked": "2026-11-24"
+    },
+    "photo": {
+      "src": "./images/045.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Morbiflette au morbier et à la Morteau"
     }
   },
   {
@@ -3650,6 +3659,15 @@
       "account": "https://www.instagram.com/chester_foodies/",
       "verification": "article secondaire",
       "checked": "2026-11-24"
+    },
+    "photo": {
+      "src": "./images/046.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Lasagnes montagnardes à la raclette"
     }
   },
   {
@@ -3748,6 +3766,15 @@
       "article": "https://www.marmiton.org/Aperitif/une-idee-fraiche-simple-et-trop-bonne-pour-l-apero-cette-tartinade-de-courgette-au-bacon-est-a-tester-d-urgence-s4117689.html",
       "verification": "reel intégré à un article, reel non consultable directement",
       "checked": "2026-11-24"
+    },
+    "photo": {
+      "src": "./images/047.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Tartinade de courgettes, chèvre et poitrine fumée"
     }
   },
   {
@@ -3894,6 +3921,15 @@
       "account": "https://www.instagram.com/chester_foodies/",
       "verification": "source secondaire non vérifiée auprès de la publication originale",
       "checked": "2026-11-24"
+    },
+    "photo": {
+      "src": "./images/048.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Potée de chou à la sauce moutarde"
     }
   },
   {
@@ -4048,6 +4084,15 @@
       "bookUrl": "https://www.albin-michel.fr/les-classiques-revisites-de-chester-foodies-9782226511041",
       "excerptMagazine": "Femmes Magazine n°282, novembre 2026, p. 81",
       "checked": "2026-11-24"
+    },
+    "photo": {
+      "src": "./images/049.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Cabillaud lardé, sauce vierge et röstis"
     }
   },
   {
@@ -4199,7 +4244,16 @@
       "excerptMedia": "Femmes Magazine",
       "checked": "2026-11-24"
     },
-    "id": "050"
+    "id": "050",
+    "photo": {
+      "src": "./images/050.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Tomates très bien farcies — feta et olives"
+    }
   },
   {
     "title": "Pâtes à la savoyarde au reblochon et aux diots",
@@ -4308,7 +4362,16 @@
       "excerptMedia": "Version Femina",
       "checked": "2026-11-24"
     },
-    "id": "051"
+    "id": "051",
+    "photo": {
+      "src": "./images/051.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Pâtes à la savoyarde au reblochon et aux diots"
+    }
   },
   {
     "title": "Tartiflette savoyarde de Chester Foodies",
@@ -4398,7 +4461,16 @@
       "excerptMedia": "Version Femina",
       "checked": "2026-11-24"
     },
-    "id": "052"
+    "id": "052",
+    "photo": {
+      "src": "./images/052.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Tartiflette savoyarde de Chester Foodies"
+    }
   },
   {
     "title": "Cordons-bleus maison au comté",
@@ -4505,7 +4577,16 @@
       "excerptMedia": "Version Femina",
       "checked": "2026-11-24"
     },
-    "id": "053"
+    "id": "053",
+    "photo": {
+      "src": "./images/053.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Cordons-bleus maison au comté"
+    }
   },
   {
     "id": "054",
@@ -4668,6 +4749,15 @@
       "publication": "Journal des Femmes Cuisine",
       "url": "https://cuisine.journaldesfemmes.fr/recette/356349-poulet-au-beurre-de-cacahuete",
       "consulted": "2026-11-24"
+    },
+    "photo": {
+      "src": "./images/054.webp",
+      "generated": true,
+      "featured": false,
+      "style": "rustique-réaliste",
+      "heroPosition": "center center",
+      "cardPosition": "center center",
+      "alt": "Illustration culinaire générée pour Poulet au beurre de cacahuète et lait de coco"
     }
   },
   {
